@@ -1,0 +1,10 @@
+CONGRESSIONAL TRADING EDA - KEY FINDINGS
+==================================================
+
+Dataset: 23,036 trades from 203 members
+Date range: 2015-07-15 to 2026-01-29
+
+Beat Market Rate: 35.5%
+Mean Excess Return: -12.49%
+
+This suggests that on average, Congressional trades UNDERPERFORM the S&P 500.
