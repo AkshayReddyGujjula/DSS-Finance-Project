@@ -1,27 +1,27 @@
 member_name,committee_sector
-john boozman,Consumer Staples
-mitch mcconnell,Consumer Staples
-john hoeven,Consumer Staples
-joni ernst,Consumer Staples
-cindy hyde-smith,Consumer Staples
-roger marshall,Consumer Staples
-tommy tuberville,Consumer Staples
-jim justice,Consumer Staples
-charles “chuck” grassley,Consumer Staples
-john thune,Consumer Staples
-deb fischer,Consumer Staples
-jerry moran,Consumer Staples
-amy klobuchar,Consumer Staples
-michael bennet,Consumer Staples
-tina smith,Consumer Staples
-richard durbin,Consumer Staples
-cory booker,Consumer Staples
-ben ray luján,Consumer Staples
-raphael warnock,Consumer Staples
-peter welch,Consumer Staples
-john fetterman,Consumer Staples
-adam schiff,Consumer Staples
-elissa slotkin,Consumer Staples
+john boozman,Consumer Defensive
+mitch mcconnell,Consumer Defensive
+john hoeven,Consumer Defensive
+joni ernst,Consumer Defensive
+cindy hyde-smith,Consumer Defensive
+roger marshall,Consumer Defensive
+tommy tuberville,Consumer Defensive
+jim justice,Consumer Defensive
+charles “chuck” grassley,Consumer Defensive
+john thune,Consumer Defensive
+deb fischer,Consumer Defensive
+jerry moran,Consumer Defensive
+amy klobuchar,Consumer Defensive
+michael bennet,Consumer Defensive
+tina smith,Consumer Defensive
+richard durbin,Consumer Defensive
+cory booker,Consumer Defensive
+ben ray luján,Consumer Defensive
+raphael warnock,Consumer Defensive
+peter welch,Consumer Defensive
+john fetterman,Consumer Defensive
+adam schiff,Consumer Defensive
+elissa slotkin,Consumer Defensive
 cindy hyde-smith,Unknown
 charles “chuck” grassley,Unknown
 jerry moran,Unknown
@@ -80,17 +80,17 @@ martin heinrich,Unknown
 gary peters,Unknown
 kirsten gillibrand,Unknown
 jon ossoff,Unknown
-susan collins,Consumer Staples
-markwayne mullin,Consumer Staples
-mike rounds,Consumer Staples
-jeanne shaheen,Consumer Staples
-jeff merkley,Consumer Staples
-tammy baldwin,Consumer Staples
-martin heinrich,Consumer Staples
-gary peters,Consumer Staples
-kirsten gillibrand,Consumer Staples
-jon ossoff,Consumer Staples
-patty murray,Consumer Staples
+susan collins,Consumer Defensive
+markwayne mullin,Consumer Defensive
+mike rounds,Consumer Defensive
+jeanne shaheen,Consumer Defensive
+jeff merkley,Consumer Defensive
+tammy baldwin,Consumer Defensive
+martin heinrich,Consumer Defensive
+gary peters,Consumer Defensive
+kirsten gillibrand,Consumer Defensive
+jon ossoff,Consumer Defensive
+patty murray,Consumer Defensive
 jerry moran,Communication Services
 lisa murkowski,Communication Services
 susan collins,Communication Services
@@ -109,16 +109,16 @@ jeff merkley,Communication Services
 gary peters,Communication Services
 kirsten gillibrand,Communication Services
 patty murray,Communication Services
-bill hagerty,Financials
-john boozman,Financials
-susan collins,Financials
-markwayne mullin,Financials
-deb fischer,Financials
-john f. “jack” reed,Financials
-richard durbin,Financials
-christopher coons,Financials
-chris van hollen,Financials
-patty murray,Financials
+bill hagerty,Financial Services
+john boozman,Financial Services
+susan collins,Financial Services
+markwayne mullin,Financial Services
+deb fischer,Financial Services
+john f. “jack” reed,Financial Services
+richard durbin,Financial Services
+christopher coons,Financial Services
+chris van hollen,Financial Services
+patty murray,Financial Services
 shelley moore capito,Healthcare
 lindsey graham,Healthcare
 jerry moran,Healthcare
@@ -205,27 +205,27 @@ rick scott,Unknown
 jim banks,Unknown
 elizabeth warren,Unknown
 mazie hirono,Unknown
-tim scott,Financials
-michael “mike” crapo,Financials
-mike rounds,Financials
-thom tillis,Financials
-john neely kennedy,Financials
-cynthia lummis,Financials
-katie britt,Financials
-pete ricketts,Financials
-jim banks,Financials
-kevin cramer,Financials
-bernie moreno,Financials
-dave mccormick,Financials
-elizabeth warren,Financials
-mark warner,Financials
-catherine cortez masto,Financials
-tina smith,Financials
-raphael warnock,Financials
-andy kim,Financials
-ruben gallego,Financials
-lisa blunt rochester,Financials
-angela alsobrooks,Financials
+tim scott,Financial Services
+michael “mike” crapo,Financial Services
+mike rounds,Financial Services
+thom tillis,Financial Services
+john neely kennedy,Financial Services
+cynthia lummis,Financial Services
+katie britt,Financial Services
+pete ricketts,Financial Services
+jim banks,Financial Services
+kevin cramer,Financial Services
+bernie moreno,Financial Services
+dave mccormick,Financial Services
+elizabeth warren,Financial Services
+mark warner,Financial Services
+catherine cortez masto,Financial Services
+tina smith,Financial Services
+raphael warnock,Financial Services
+andy kim,Financial Services
+ruben gallego,Financial Services
+lisa blunt rochester,Financial Services
+angela alsobrooks,Financial Services
 thom tillis,Unknown
 pete ricketts,Unknown
 tim scott,Unknown

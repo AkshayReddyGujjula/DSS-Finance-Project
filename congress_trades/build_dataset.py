@@ -446,13 +446,15 @@ def run_phase4():
 # PHASE 5 — GovTrack: committee memberships (confirmed working Feb 2026)
 # ─────────────────────────────────────────────────────────────────────────────
 
+# Sector labels MUST match yfinance sector strings exactly.
+# yfinance uses: "Financial Services", "Consumer Defensive", "Technology", etc.
 COMMITTEE_SECTOR_MAP = {
-    "Agriculture":            "Consumer Staples",
+    "Agriculture":            "Consumer Defensive",      # yfinance: Consumer Defensive
     "Armed Services":         "Industrials",
-    "Banking":                "Financials",
+    "Banking":                "Financial Services",       # yfinance: Financial Services
     "Commerce":               "Communication Services",
     "Energy and Commerce":    "Energy",
-    "Financial Services":     "Financials",
+    "Financial Services":     "Financial Services",       # yfinance: Financial Services
     "Foreign Affairs":        "Industrials",
     "Health":                 "Healthcare",
     "Intelligence":           "Industrials",
@@ -461,7 +463,7 @@ COMMITTEE_SECTOR_MAP = {
     "Science and Technology": "Technology",
     "Transportation":         "Industrials",
     "Veterans Affairs":       "Healthcare",
-    "Ways and Means":         "Financials",
+    "Ways and Means":         "Financial Services",       # yfinance: Financial Services
 }
 
 
@@ -592,13 +594,116 @@ def run_phase6(df_trades, df_members, committee_sector_lookup):
         "trade_date", "disclosure_date", "disclosure_lag_days",
         "member_name", "bioguide_id", "chamber", "party", "state",
         "ticker", "company", "sector",
-        "trade_type", "trade_value_bucket", "amount_usd",
-        "stock_return_pct", "sp500_return_pct", "excess_return_pct",
+        "trade_type", "trade_value_bucket", "trade_value_est", "amount_usd",
+        "stock_return_pct", "sp500_return_pct", "excess_return_pct", "beat_market",
         "aligned_trade",
     ]
     present = [c for c in ordered if c in df.columns]
     extras  = [c for c in df.columns if c not in ordered]
     return df[present + extras]
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# PHASE 7 — Final quality pass & analysis-ready columns
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Trade-value bucket → numeric midpoint estimate (USD).
+# Used when amount_usd is not available (Kaggle rows).
+BUCKET_MIDPOINTS = {
+    "$1,001 - $15,000":           8_001,
+    "$15,001 - $50,000":         32_500,
+    "$50,001 - $100,000":        75_000,
+    "$100,001 - $250,000":      175_000,
+    "$250,001 - $500,000":      375_000,
+    "$500,001 - $1,000,000":    750_000,
+    "$1,000,001 - $5,000,000": 3_000_000,
+    "$5,000,001 - $25,000,000": 15_000_000,
+    "$25,000,001 - $50,000,000": 37_500_000,
+    "$50,000,001+":              75_000_000,
+}
+
+# Partial / malformed bucket strings → canonical form
+BUCKET_FIXES = {
+    "$1,001":       "$1,001 - $15,000",
+    "$15,001":      "$15,001 - $50,000",
+    "$50,001":      "$50,001 - $100,000",
+    "$100,001":     "$100,001 - $250,000",
+    "$250,001":     "$250,001 - $500,000",
+    "$500,001":     "$500,001 - $1,000,000",
+    "$1,000,001":   "$1,000,001 - $5,000,000",
+    "$5,000,001":   "$5,000,001 - $25,000,000",
+}
+
+
+def run_finalize(df):
+    """
+    Final data quality pass and addition of analysis-ready columns.
+    Called after Phase 6 (merge) and before saving the master CSV.
+
+    Operations:
+      1. Drop rows with negative disclosure_lag_days (data entry errors).
+      2. Normalise malformed trade_value_bucket strings.
+      3. Add trade_value_est  — numeric midpoint of the bucket (or amount_usd).
+      4. Add beat_market      — binary target: 1 if excess_return_pct > 0.
+      5. Winsorise excess_return_pct at the 1st/99th percentile to remove
+         extreme data-quality outliers while keeping genuine large moves.
+      6. Ensure sector/company are clean strings.
+    """
+    print("\n-- Phase 7: Final cleanup & analysis columns -------------------")
+    n_start = len(df)
+
+    # 1. Remove rows where disclosure happened before the trade (impossible)
+    if "disclosure_lag_days" in df.columns:
+        bad = df["disclosure_lag_days"] < 0
+        if bad.sum() > 0:
+            print(f"  Dropping {bad.sum()} rows with negative disclosure_lag_days")
+            df = df[~bad].copy()
+
+    # 2. Fix malformed trade_value_bucket strings
+    if "trade_value_bucket" in df.columns:
+        before_fix = df["trade_value_bucket"].isin(BUCKET_FIXES).sum()
+        df["trade_value_bucket"] = df["trade_value_bucket"].replace(BUCKET_FIXES)
+        if before_fix:
+            print(f"  Fixed {before_fix} malformed trade_value_bucket values")
+
+    # 3. Add trade_value_est (numeric midpoint)
+    if "trade_value_bucket" in df.columns:
+        df["trade_value_est"] = df["trade_value_bucket"].map(BUCKET_MIDPOINTS)
+        # If we have a precise amount_usd, use that instead
+        if "amount_usd" in df.columns:
+            df["trade_value_est"] = (
+                pd.to_numeric(df["amount_usd"], errors="coerce")
+                .combine_first(df["trade_value_est"])
+            )
+        filled = df["trade_value_est"].notna().sum()
+        print(f"  trade_value_est: {filled:,}/{len(df):,} rows filled")
+
+    # 4. Binary target variable: beat the market?
+    if "excess_return_pct" in df.columns:
+        df["beat_market"] = (df["excess_return_pct"] > 0).astype("Int8")
+        df.loc[df["excess_return_pct"].isna(), "beat_market"] = pd.NA
+        pos = (df["beat_market"] == 1).sum()
+        total = df["beat_market"].notna().sum()
+        print(f"  beat_market: {pos:,}/{total:,} trades beat market ({100*pos/max(total,1):.1f}%)")
+
+    # 5. Winsorise excess_return_pct (removes data-quality extremes only)
+    if "excess_return_pct" in df.columns:
+        lo = df["excess_return_pct"].quantile(0.01)
+        hi = df["excess_return_pct"].quantile(0.99)
+        n_out = ((df["excess_return_pct"] < lo) | (df["excess_return_pct"] > hi)).sum()
+        df["excess_return_pct"] = df["excess_return_pct"].clip(lower=lo, upper=hi)
+        print(f"  Winsorised {n_out} extreme excess_return_pct values "
+              f"(p1={lo:.3f}, p99={hi:.3f})")
+
+    # 6. Tidy string columns
+    for col in ("sector", "company", "chamber", "party", "state"):
+        if col in df.columns:
+            df[col] = df[col].fillna("Unknown" if col in ("sector",) else "").str.strip()
+            if col == "sector":
+                df[col] = df[col].replace("", "Unknown")
+
+    print(f"  Rows: {n_start:,} -> {len(df):,} (net removed {n_start - len(df)})")
+    return df
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -624,6 +729,7 @@ def main():
     _, committee_sector_lookup = run_phase5()
 
     df_final = run_phase6(df_trades, df_members, committee_sector_lookup)
+    df_final = run_finalize(df_final)
     df_final.to_csv(OUT_MASTER, index=False)
 
     print("\n" + "=" * 66)
