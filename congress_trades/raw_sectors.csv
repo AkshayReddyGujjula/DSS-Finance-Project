@@ -1,0 +1,2791 @@
+ticker,sector,company_name
+GS,Financial Services,"Goldman Sachs Group, Inc. (The)"
+UNP,Industrials,Union Pacific Corporation
+OMC,Communication Services,Omnicom Group Inc.
+FISV,Unknown,"Fiserv, Inc."
+IVW,Unknown,iShares S&P 500 Growth ETF
+MU,Technology,"Micron Technology, Inc."
+PPLT,Unknown,abrdn Physical Platinum Shares 
+PALL,Unknown,abrdn Physical Palladium Shares
+MDY,Unknown,State Street SPDR S&P MIDCAP 40
+SLV,Unknown,iShares Silver Trust
+IWM,Unknown,iShares Russell 2000 ETF
+LRCX,Technology,Lam Research Corporation
+ETN,Industrials,"Eaton Corporation, PLC"
+CAT,Industrials,"Caterpillar, Inc."
+PYPL,Financial Services,"PayPal Holdings, Inc."
+CVS,Healthcare,CVS Health Corporation
+DXCM,Healthcare,"DexCom, Inc."
+GIGB,Unknown,Goldman Sachs Access Investment
+JMBS,Unknown,Janus Henderson Mortgage-Backed
+MBB,Unknown,iShares MBS ETF
+CMBS,Unknown,iShares CMBS Bond ETF
+VNQI,Unknown,Vanguard Global ex-U.S. Real Es
+EIPI,Unknown,FT Energy Income Partners Enhan
+TPYP,Unknown,Tortoise North American Pipelin
+FTGC,Unknown,First Trust Global Tactical Com
+RNWGX,Unknown,"New World Fund, Inc. Cl R-6"
+GEM,Unknown,Goldman Sachs ActiveBeta Emergi
+LITP,Unknown,Sprott Lithium Miners ETF
+IVV,Unknown,iShares Core S&P 500 ETF
+TBLL,Unknown,Invesco Short Term Treasury ETF
+V,Financial Services,Visa Inc.
+AAPL,Technology,Apple Inc.
+NFLX,Communication Services,"Netflix, Inc."
+DIS,Communication Services,Walt Disney Company (The)
+XOM,Energy,Exxon Mobil Corporation
+TJX,Consumer Cyclical,"TJX Companies, Inc. (The)"
+UBER,Technology,"Uber Technologies, Inc."
+LOW,Consumer Cyclical,"Lowe's Companies, Inc."
+SBUX,Consumer Cyclical,Starbucks Corporation
+VSEC,Industrials,VSE Corporation
+CRS,Industrials,Carpenter Technology Corporatio
+FCFS,Financial Services,"FirstCash Holdings, Inc."
+MCK,Healthcare,McKesson Corporation
+ADBE,Technology,Adobe Inc.
+MPWR,Technology,"Monolithic Power Systems, Inc."
+LRN,Consumer Defensive,"Stride, Inc."
+AMKR,Technology,"Amkor Technology, Inc."
+C,Financial Services,"Citigroup, Inc."
+APG,Industrials,APi Group Corporation
+NVDA,Technology,NVIDIA Corporation
+HD,Consumer Cyclical,"Home Depot, Inc. (The)"
+MCD,Consumer Cyclical,McDonald's Corporation
+BRK.B,Unknown,
+JPM,Financial Services,JP Morgan Chase & Co.
+AMZN,Consumer Cyclical,"Amazon.com, Inc."
+GOOG,Communication Services,Alphabet Inc.
+UPS,Industrials,"United Parcel Service, Inc."
+UNH,Healthcare,UnitedHealth Group Incorporated
+EOG,Energy,"EOG Resources, Inc."
+MSFT,Technology,Microsoft Corporation
+WMT,Consumer Defensive,Walmart Inc.
+HON,Industrials,Honeywell International Inc.
+LLY,Healthcare,Eli Lilly and Company
+CMCSA,Communication Services,Comcast Corporation
+SWK,Industrials,"Stanley Black & Decker, Inc."
+WPC,Real Estate,W. P. Carey Inc. REIT
+INTU,Technology,Intuit Inc.
+BSX,Healthcare,Boston Scientific Corporation
+RTX,Industrials,RTX Corporation
+COF,Financial Services,Capital One Financial Corporati
+GOOGL,Communication Services,Alphabet Inc.
+KO,Consumer Defensive,Coca-Cola Company (The)
+ELV,Healthcare,"Elevance Health, Inc."
+CRM,Technology,"Salesforce, Inc."
+HLT,Consumer Cyclical,Hilton Worldwide Holdings Inc.
+META,Communication Services,"Meta Platforms, Inc."
+AMAT,Technology,"Applied Materials, Inc."
+IQV,Healthcare,"IQVIA Holdings, Inc."
+DE,Industrials,Deere & Company
+NOW,Technology,"ServiceNow, Inc."
+MA,Financial Services,Mastercard Incorporated
+ICE,Financial Services,Intercontinental Exchange Inc.
+AXP,Financial Services,American Express Company
+ISRG,Healthcare,"Intuitive Surgical, Inc."
+CVX,Energy,Chevron Corporation
+COP,Energy,ConocoPhillips
+COST,Consumer Defensive,Costco Wholesale Corporation
+XLP,Unknown,State Street Consumer Staples S
+XLU,Unknown,State Street Utilities Select S
+XLV,Unknown,State Street Health Care Select
+MTZ,Industrials,"MasTec, Inc."
+IRM,Real Estate,Iron Mountain Incorporated (Del
+CRDO,Technology,Credo Technology Group Holding 
+COHR,Technology,Coherent Corp.
+PRMB,Consumer Defensive,Primo Brands Corporation
+DELL,Technology,Dell Technologies Inc.
+AIT,Industrials,Applied Industrial Technologies
+LAZR,Consumer Cyclical,"Luminar Technologies, Inc."
+SMCI,Technology,"Super Micro Computer, Inc."
+KRE,Unknown,State Street SPDR S&P Regional 
+MSI,Technology,"Motorola Solutions, Inc."
+IJR,Unknown,iShares Core S&P Small-Cap ETF
+SPYM,Unknown,State Street SPDR Portfolio S&P
+WFC,Financial Services,Wells Fargo & Company
+ANET,Technology,"Arista Networks, Inc."
+VZ,Communication Services,Verizon Communications Inc.
+INTC,Technology,Intel Corporation
+FWONK,Communication Services,Liberty Media Corporation - Ser
+K,Unknown,
+BSCQ,Unknown,Invesco BulletShares 2026 Corpo
+IBDQ,Unknown,iShares iBonds Dec 2025 Term Co
+BSCP,Unknown,Invesco BulletShares 2025 Corpo
+BITB,Unknown,Bitwise Bitcoin ETF
+VEA,Unknown,Vanguard FTSE Developed Markets
+EFA,Unknown,iShares MSCI EAFE ETF
+RNWAX,Unknown,American Funds - New World Fund
+AAXJ,Unknown,iShares MSCI All Country Asia e
+WWSYX,Unknown,Westwood SmallCap Fund - Class 
+VWO,Unknown,Vanguard FTSE Emerging Markets 
+CSX,Industrials,CSX Corporation
+PNR,Industrials,Pentair plc.
+ZTS,Healthcare,Zoetis Inc.
+CAG,Consumer Defensive,"ConAgra Brands, Inc."
+PAYX,Technology,"Paychex, Inc."
+GH,Healthcare,"Guardant Health, Inc."
+HSY,Consumer Defensive,The Hershey Company
+VWUSX,Unknown,Vanguard U.S. Growth Fund
+VWUAX,Unknown,Vanguard  U.S. Growth Fund Admi
+HBAN,Financial Services,Huntington Bancshares Incorpora
+OGN,Healthcare,Organon & Co.
+FI,Unknown,
+CMG,Consumer Cyclical,"Chipotle Mexican Grill, Inc."
+TMUS,Communication Services,"T-Mobile US, Inc."
+ORCL,Technology,Oracle Corporation
+OC,Industrials,Owens Corning Inc
+PEP,Consumer Defensive,"Pepsico, Inc."
+COLPAL,Unknown,
+EMLP,Unknown,First Trust North American Ener
+URNM,Unknown,Sprott Uranium Miners ETF
+IBM,Technology,International Business Machines
+PGR,Financial Services,Progressive Corporation (The)
+PEBO,Financial Services,Peoples Bancorp Inc.
+AGZ,Unknown,iShares  Agency Bond ETF
+TLT,Unknown,iShares 20+ Year Treasury Bond 
+GBIL,Unknown,Goldman Sachs Access Treasury 0
+IEF,Unknown,iShares 7-10 Year Treasury Bond
+SCHP,Unknown,Schwab U.S. TIPs ETF
+SHY,Unknown,iShares 1-3 Year Treasury Bond 
+IEI,Unknown,iShares 3-7 Year Treasury Bond 
+PANW,Technology,"Palo Alto Networks, Inc."
+AMGN,Healthcare,Amgen Inc.
+WAB,Industrials,Westinghouse Air Brake Technolo
+TXN,Technology,Texas Instruments Incorporated
+IHF,Unknown,iShares U.S. Health Care Provid
+ACN,Technology,Accenture plc
+ABBV,Healthcare,AbbVie Inc.
+EMRZX,Unknown,Emerging Markets Fund Class Z
+AMD,Technology,"Advanced Micro Devices, Inc."
+TLH,Unknown,iShares 10-20 Year Treasury Bon
+DHR,Healthcare,Danaher Corporation
+KVUE,Consumer Defensive,Kenvue Inc.
+BLK,Financial Services,"BlackRock, Inc."
+SHW,Basic Materials,Sherwin-Williams Company (The)
+PLD,Real Estate,"Prologis, Inc."
+MRVL,Technology,"Marvell Technology, Inc."
+PWR,Industrials,"Quanta Services, Inc."
+KEX,Industrials,Kirby Corporation
+ADSK,Technology,"Autodesk, Inc."
+ONON,Consumer Cyclical,On Holding AG
+BAC,Financial Services,Bank of America Corporation
+VRT,Industrials,"Vertiv Holdings, LLC"
+BX,Financial Services,Blackstone Inc.
+TMO,Healthcare,Thermo Fisher Scientific Inc
+MDLZ,Consumer Defensive,"Mondelez International, Inc."
+GD,Industrials,General Dynamics Corporation
+HYG,Unknown,iShares iBoxx $ High Yield Corp
+GE,Industrials,GE Aerospace
+ADI,Technology,"Analog Devices, Inc."
+PPG,Basic Materials,"PPG Industries, Inc."
+CL,Consumer Defensive,Colgate-Palmolive Company
+AVGO,Technology,Broadcom Inc.
+AFL,Financial Services,AFLAC Incorporated
+CB,Financial Services,Chubb Limited
+BSCV,Unknown,Invesco BulletShares 2031 Corpo
+XONE,Unknown,BondBloxx Bloomberg One Year Ta
+PFE,Healthcare,"Pfizer, Inc."
+FBIN,Industrials,"Fortune Brands Innovations, Inc"
+NRG,Utilities,"NRG Energy, Inc."
+DTE,Utilities,DTE Energy Company
+VLO,Energy,Valero Energy Corporation
+ATO,Utilities,Atmos Energy Corporation
+LBRDK,Communication Services,Liberty Broadband Corporation
+LPLA,Financial Services,LPL Financial Holdings Inc.
+LHX,Industrials,"L3Harris Technologies, Inc."
+SPY,Unknown,State Street SPDR S&P 500 ETF T
+SIRI,Communication Services,SiriusXM Holdings Inc.
+DUK,Utilities,Duke Energy Corporation (Holdin
+STZ,Consumer Defensive,"Constellation Brands, Inc."
+USIG,Unknown,iShares Broad USD Investment Gr
+ADM,Consumer Defensive,Archer-Daniels-Midland Company
+BMY,Healthcare,Bristol-Myers Squibb Company
+GILD,Healthcare,"Gilead Sciences, Inc."
+EL,Consumer Defensive,"Estee Lauder Companies, Inc. (T"
+TGT,Consumer Defensive,Target Corporation
+NKE,Consumer Cyclical,"Nike, Inc."
+NGL,Energy,NGL ENERGY PARTNERS LP
+FCX,Basic Materials,"Freeport-McMoRan, Inc."
+APPLE INC. (XNAS:AAPL),Unknown,
+BA,Industrials,Boeing Company (The)
+URI,Industrials,"United Rentals, Inc."
+TDG,Industrials,Transdigm Group Incorporated
+DUK$A,Unknown,
+ASC,Industrials,Ardmore Shipping Corporation
+FLNG,Energy,FLEX LNG Ltd.
+LRLCY,Consumer Defensive,L'Oreal Co.
+ARLP,Energy,"Alliance Resource Partners, L.P"
+BBY,Consumer Cyclical,"Best Buy Co., Inc."
+ET,Energy,Energy Transfer LP
+PG,Consumer Defensive,Procter & Gamble Company (The)
+MMC,Financial Services,"Marsh & McLennan Companies, Inc"
+NWN,Utilities,Northwest Natural Holding Compa
+OKE,Energy,"ONEOK, Inc."
+TEX,Industrials,Terex Corporation
+DBSDY,Financial Services,DBS Group Holdings Ltd.
+CHRD,Energy,Chord Energy Corporation
+ILMN,Healthcare,"Illumina, Inc."
+QCOM,Technology,QUALCOMM Incorporated
+PHG,Healthcare,Koninklijke Philips N.V. NY Reg
+CTSH,Technology,Cognizant Technology Solutions 
+UL,Consumer Defensive,Unilever PLC
+TSM,Technology,Taiwan Semiconductor Manufactur
+BKNG,Consumer Cyclical,Booking Holdings Inc. Common St
+REGN,Healthcare,"Regeneron Pharmaceuticals, Inc."
+MDB,Technology,"MongoDB, Inc."
+KKR,Financial Services,KKR & Co. Inc.
+T$A,Unknown,
+SPG,Real Estate,"Simon Property Group, Inc."
+LNG,Energy,"Cheniere Energy, Inc."
+TTD,Communication Services,"The Trade Desk, Inc."
+MRNA,Healthcare,"Moderna, Inc."
+FSLR,Technology,"First Solar, Inc."
+SCHW,Financial Services,Charles Schwab Corporation (The
+MS,Financial Services,Morgan Stanley
+MSCI,Financial Services,MSCI Inc.
+EXAS,Healthcare,Exact Sciences Corporation
+HTGC,Financial Services,"Hercules Capital, Inc."
+PRNDY,Consumer Defensive,Pernod Ricard S.A.
+ALNY,Healthcare,"Alnylam Pharmaceuticals, Inc."
+TSLA,Consumer Cyclical,"Tesla, Inc."
+ON,Technology,ON Semiconductor Corporation
+APH,Technology,Amphenol Corporation
+ABG,Consumer Cyclical,Asbury Automotive Group Inc
+TPH,Consumer Cyclical,"Tri Pointe Homes, Inc."
+AGIO,Healthcare,"Agios Pharmaceuticals, Inc."
+MEDP,Healthcare,"Medpace Holdings, Inc."
+LAD,Consumer Cyclical,"Lithia Motors, Inc."
+MRK,Healthcare,"Merck & Company, Inc."
+SYY,Consumer Defensive,Sysco Corporation
+AON,Financial Services,Aon plc
+MDT,Healthcare,Medtronic plc.
+CFG,Financial Services,"Citizens Financial Group, Inc."
+CME,Financial Services,CME Group Inc.
+ABT,Healthcare,Abbott Laboratories
+PKG,Consumer Cyclical,Packaging Corporation of Americ
+LMT,Industrials,Lockheed Martin Corporation
+JNJ,Healthcare,Johnson & Johnson
+GIS,Consumer Defensive,"General Mills, Inc."
+FMAO,Financial Services,"Farmers & Merchants Bancorp, In"
+BABA,Consumer Cyclical,Alibaba Group Holding Limited
+HQY,Healthcare,"HealthEquity, Inc."
+COIN,Financial Services,"Coinbase Global, Inc. - 3"
+VUG,Unknown,Vanguard Growth ETF
+APD,Basic Materials,"Air Products and Chemicals, Inc"
+W,Consumer Cyclical,Wayfair Inc.
+SCHX,Unknown,Schwab U.S. Large-Cap ETF
+CRT,Energy,Cross Timbers Royalty Trust
+MO,Consumer Defensive,"Altria Group, Inc."
+CAH,Healthcare,"Cardinal Health, Inc."
+HSHCY,Consumer Cyclical,HAIER SMART HOME CO LTD.
+BAP,Financial Services,Credicorp Ltd.
+HELE,Consumer Defensive,Helen of Troy Limited
+SSDOY,Consumer Defensive,"Shiseido Company, Ltd."
+ALGM,Technology,"Allegro MicroSystems, Inc."
+PTEN,Energy,"Patterson-UTI Energy, Inc."
+OCFC,Financial Services,OceanFirst Financial Corp.
+NCLTY,Consumer Cyclical,"Nitori Holdings Co., Ltd."
+GTLS,Industrials,"Chart Industries, Inc."
+BDX,Healthcare,"Becton, Dickinson and Company"
+PYCR,Unknown,"Paycor HCM, Inc."
+XNGSY,Utilities,ENN Energy Holdings Ltd.
+PNGAY,Financial Services,Ping An Insurance (Group) Compa
+SHLS,Technology,"Shoals Technologies Group, Inc."
+RY,Financial Services,Royal Bank Of Canada
+AMEH,Unknown,
+LOPE,Consumer Defensive,"Grand Canyon Education, Inc."
+BP,Energy,BP p.l.c.
+MAG,Unknown,
+SPXC,Industrials,"SPX Technologies, Inc."
+VUZI,Technology,Vuzix Corporation
+DVN,Energy,Devon Energy Corporation
+NOC,Industrials,Northrop Grumman Corporation
+JKHY,Technology,"Jack Henry & Associates, Inc."
+ROP,Technology,"Roper Technologies, Inc."
+HRL,Consumer Defensive,Hormel Foods Corporation
+WST,Healthcare,"West Pharmaceutical Services, I"
+CCI,Real Estate,Crown Castle Inc.
+DG,Consumer Defensive,Dollar General Corporation
+TSCO,Consumer Cyclical,Tractor Supply Company
+AMT,Real Estate,American Tower Corporation (REI
+WMB,Energy,"Williams Companies, Inc. (The)"
+PXD,Unknown,
+ALB,Basic Materials,Albemarle Corporation
+NEE,Utilities,"NextEra Energy, Inc."
+LZAGY,Healthcare,Lonza Group AG
+HEI,Industrials,Heico Corporation
+INTA,Technology,"Intapp, Inc."
+HLI,Financial Services,"Houlihan Lokey, Inc."
+HASI,Financial Services,HA Sustainable Infrastructure C
+UMBF,Financial Services,UMB Financial Corporation
+LIN,Basic Materials,Linde plc
+BUI,Financial Services,"BlackRock Utility, Infrastructu"
+SBCF,Financial Services,Seacoast Banking Corporation of
+ACI,Consumer Defensive,"Albertsons Companies, Inc."
+EFC$D,Unknown,
+ALK,Industrials,"Alaska Air Group, Inc."
+EW,Healthcare,Edwards Lifesciences Corporatio
+ROK,Industrials,"Rockwell Automation, Inc."
+DTRUY,Industrials,DAIMLER TRUCK HLDG AG
+KD,Technology,"Kyndryl Holdings, Inc."
+EMR,Industrials,Emerson Electric Company
+DHI,Consumer Cyclical,"D.R. Horton, Inc."
+CCLD,Healthcare,"CareCloud, Inc."
+DEO,Consumer Defensive,Diageo plc
+BNTX,Healthcare,BioNTech SE
+FANUY,Industrials,Fanuc Corporation
+SONY,Technology,Sony Group Corporation
+SBGSY,Industrials,Schneider Electric SE
+PPRUY,Consumer Cyclical,Kering SA
+AZO,Consumer Cyclical,"AutoZone, Inc."
+SPGI,Financial Services,S&P Global Inc.
+MNST,Consumer Defensive,Monster Beverage Corporation
+KLAC,Technology,KLA Corporation
+CELH,Consumer Defensive,"Celsius Holdings, Inc."
+COCO,Consumer Defensive,"The Vita Coco Company, Inc."
+IGSB,Unknown,iShares 1-5 Year Investment Gra
+T,Communication Services,AT&T Inc.
+AAIC$B,Unknown,
+CORP,Unknown,Pimco Investment Grade Corporat
+HCA,Healthcare,"HCA Healthcare, Inc."
+WBD,Communication Services,"Warner Bros. Discovery, Inc. - "
+MMM,Industrials,3M Company
+PCH,Real Estate,PotlatchDeltic Corporation - Co
+FIS,Technology,Fidelity National Information S
+PM,Consumer Defensive,Philip Morris International Inc
+MKL,Financial Services,Markel Group Inc.
+ASML,Technology,ASML Holding N.V. - New York Re
+CHX,Unknown,
+DASH,Consumer Cyclical,"DoorDash, Inc."
+D,Utilities,"Dominion Energy, Inc."
+LDOS,Technology,"Leidos Holdings, Inc."
+ULTA,Consumer Cyclical,"Ulta Beauty, Inc."
+EVVTY,Consumer Cyclical,Evolution AB
+DT,Technology,"Dynatrace, Inc."
+SAIC,Technology,Science Applications Internatio
+USDP,Industrials,USD Partners LP
+IP,Consumer Cyclical,International Paper Company
+MPW,Real Estate,"Medical Properties Trust, Inc."
+BNS,Financial Services,Bank Nova Scotia Halifax Pfd 3
+ARCC,Financial Services,Ares Capital Corporation
+SNOW,Technology,Snowflake Inc.
+GWW,Industrials,"W.W. Grainger, Inc."
+LULU,Consumer Cyclical,lululemon athletica inc.
+SGEN,Unknown,
+HDB,Financial Services,HDFC Bank Limited
+ALGN,Healthcare,"Align Technology, Inc."
+PRIM,Industrials,Primoris Services Corporation
+INSW,Energy,"International Seaways, Inc."
+ICFI,Industrials,"ICF International, Inc."
+ALG,Industrials,"Alamo Group, Inc."
+UEC,Energy,Uranium Energy Corp.
+CSCO,Technology,"Cisco Systems, Inc."
+VRTX,Healthcare,Vertex Pharmaceuticals Incorpor
+NEP,Unknown,
+AXON,Industrials,"Axon Enterprise, Inc."
+J,Industrials,Jacobs Solutions Inc.
+SYK,Healthcare,Stryker Corporation
+NFE,Energy,New Fortress Energy Inc.
+BALL,Consumer Cyclical,Ball Corporation
+PH,Industrials,Parker-Hannifin Corporation
+HWM,Industrials,Howmet Aerospace Inc.
+FMBA,Unknown,
+SHYF,Unknown,
+DAVA,Technology,Endava plc
+UTZ,Consumer Defensive,Utz Brands Inc
+SLGN,Consumer Cyclical,Silgan Holdings Inc.
+ALGT,Industrials,Allegiant Travel Company
+ADYEY,Technology,Adyen N.V.
+SGIOY,Healthcare,Shionogi & Co. Ltd.
+PHR,Healthcare,"Phreesia, Inc."
+VCYT,Healthcare,"Veracyte, Inc."
+IART,Healthcare,Integra LifeSciences Holdings C
+VIAV,Technology,Viavi Solutions Inc.
+RVLV,Consumer Cyclical,"Revolve Group, Inc."
+SMNNY,Consumer Cyclical,Shimano Inc.
+TWKS,Unknown,
+NVZMY,Basic Materials,NOVONESIS A S
+FOXF,Consumer Cyclical,Fox Factory Holding Corp.
+GMAB,Healthcare,Genmab A/S
+BCRX,Healthcare,"BioCryst Pharmaceuticals, Inc."
+ATVI,Unknown,
+MAR,Consumer Cyclical,Marriott International
+DCO,Industrials,Ducommun Incorporated
+UFPI,Basic Materials,"UFP Industries, Inc."
+GPK,Consumer Cyclical,Graphic Packaging Holding Compa
+VOD,Communication Services,Vodafone Group Plc
+CMP,Basic Materials,Compass Minerals Intl Inc
+SCHW$D,Unknown,
+JBL,Technology,Jabil Inc.
+EMXC,Unknown,iShares MSCI Emerging Markets e
+JEPI,Unknown,JPMorgan Equity Premium Income 
+VO,Unknown,Vanguard Mid-Cap ETF
+VOO,Unknown,Vanguard S&P 500 ETF
+VMW,Unknown,
+PAA,Energy,"Plains All American Pipeline, L"
+HIG,Financial Services,"The Hartford Insurance Group, I"
+KMI,Energy,"Kinder Morgan, Inc."
+CMI,Industrials,Cummins Inc.
+TDY,Technology,Teledyne Technologies Incorpora
+MMP,Unknown,
+AAM$A,Unknown,
+VGR,Unknown,
+GPP,Unknown,
+VBTX,Unknown,
+ARQT,Healthcare,"Arcutis Biotherapeutics, Inc."
+AZTA,Healthcare,"Azenta, Inc."
+IFF,Basic Materials,International Flavors & Fragran
+CYRX,Industrials,"CryoPort, Inc."
+CSPCY,Healthcare,CSPC Pharmaceuticals Group Ltd.
+WM,Industrials,"Waste Management, Inc."
+RCL,Consumer Cyclical,Royal Caribbean Cruises Ltd.
+FMX,Consumer Defensive,Fomento Economico Mexicano S.A.
+ATLKY,Industrials,Atlas Copco AB
+QQQ,Unknown,"Invesco QQQ Trust, Series 1"
+DFS,Unknown,
+BR,Technology,"Broadridge Financial Solutions,"
+ETR,Utilities,Entergy Corporation
+FAF,Financial Services,First American Corporation (New
+CBOE,Financial Services,"Cboe Global Markets, Inc."
+XEL,Utilities,Xcel Energy Inc.
+DORM,Consumer Cyclical,"Dorman Products, Inc."
+HUBB,Industrials,Hubbell Inc
+LAMR,Real Estate,Lamar Advertising Company
+NSC,Industrials,Norfolk Southern Corporation
+BIO,Healthcare,"Bio-Rad Laboratories, Inc."
+COLD,Real Estate,"Americold Realty Trust, Inc."
+NDAQ,Financial Services,"Nasdaq, Inc."
+WRB,Financial Services,W.R. Berkley Corporation
+HES,Unknown,
+AOS,Industrials,A.O. Smith Corporation
+NSRGY,Consumer Defensive,Nestle S.A.
+SUI,Real Estate,"Sun Communities, Inc."
+TEL,Technology,TE Connectivity plc
+WSO,Industrials,"Watsco, Inc."
+DD,Basic Materials,"DuPont de Nemours, Inc."
+ES,Utilities,Eversource Energy (D/B/A)
+CASY,Consumer Cyclical,"Caseys General Stores, Inc."
+WAT,Healthcare,Waters Corporation
+SO,Utilities,Southern Company (The)
+VNT,Technology,Vontier Corporation
+IT,Technology,"Gartner, Inc."
+GL,Financial Services,Globe Life Inc.
+ARE,Real Estate,Alexandria Real Estate Equities
+HAL,Energy,Halliburton Company
+NXPI,Technology,NXP Semiconductors N.V.
+BWXT,Industrials,"BWX Technologies, Inc."
+AVY,Consumer Cyclical,Avery Dennison Corporation
+BAH,Industrials,Booz Allen Hamilton Holding Cor
+PNC,Financial Services,"PNC Financial Services Group, I"
+MTB,Financial Services,M&T Bank Corporation
+FLR,Industrials,Fluor Corporation
+FANG,Energy,"Diamondback Energy, Inc."
+POR,Utilities,Portland General Electric Co
+NSA,Real Estate,National Storage Affiliates Tru
+LKQ,Consumer Cyclical,LKQ Corporation
+SSNC,Technology,"SS&C Technologies Holdings, Inc"
+PCAR,Industrials,PACCAR Inc.
+RGLD,Basic Materials,"Royal Gold, Inc."
+ITW,Industrials,Illinois Tool Works Inc.
+TT,Industrials,Trane Technologies plc
+CI,Healthcare,The Cigna Group
+EXPD,Industrials,Expeditors International of Was
+LNT,Utilities,Alliant Energy Corporation
+CRL,Healthcare,Charles River Laboratories Inte
+RBC,Industrials,RBC Bearings Incorporated
+JCI,Industrials,Johnson Controls International 
+AI,Technology,"C3.ai, Inc."
+AMLP,Unknown,Alerian MLP ETF
+WCN,Industrials,"Waste Connections, Inc."
+TIMB,Communication Services,TIM S.A.
+TAK,Healthcare,Takeda Pharmaceutical Company L
+AGAE,Communication Services,Allied Gaming & Entertainment I
+EME,Industrials,"EMCOR Group, Inc."
+TWLO,Technology,Twilio Inc.
+SQ,Unknown,
+ASAZY,Industrials,Assa Abloy AB
+EFX,Industrials,"Equifax, Inc."
+PRU,Financial Services,"Prudential Financial, Inc."
+STLA,Consumer Cyclical,Stellantis N.V.
+DASTY,Technology,Dassault Systemes SA
+DBRG,Financial Services,"DigitalBridge Group, Inc."
+CHGCY,Healthcare,"Chugai Pharmaceutical Co., Ltd."
+PSX,Energy,Phillips 66
+F,Consumer Cyclical,Ford Motor Company
+TPR,Consumer Cyclical,"Tapestry, Inc."
+WTW,Financial Services,Willis Towers Watson Public Lim
+CC,Basic Materials,Chemours Company (The)
+SHV,Unknown,iShares 0-1 Year Treasury Bond 
+PR,Energy,Permian Resources Corporation
+LNC,Financial Services,Lincoln National Corporation
+SWX,Utilities,"Southwest Gas Holdings, Inc."
+ABNB,Consumer Cyclical,"Airbnb, Inc."
+NSP,Industrials,"Insperity, Inc."
+ELF,Consumer Defensive,"e.l.f. Beauty, Inc."
+ALL,Financial Services,Allstate Corporation (The)
+LSXMK,Unknown,
+LSXMA,Unknown,
+LLYVA,Communication Services,"Liberty Live Holdings, Inc. - S"
+SEDG,Technology,"SolarEdge Technologies, Inc."
+LLYVK,Communication Services,"Liberty Live Holdings, Inc. - S"
+WTKWY,Industrials,Wolters Kluwer N.V.
+SIGCY,Consumer Cyclical,SIG GROUP AG
+KMB,Consumer Defensive,Kimberly-Clark Corporation
+HLN,Healthcare,Haleon plc
+KUBTY,Industrials,Kubota Corp.
+EA,Communication Services,Electronic Arts Inc.
+AAGIY,Financial Services,"AIA Group, Ltd."
+BATRK,Communication Services,"Atlanta Braves Holdings, Inc. -"
+SAP,Technology,SAP  SE
+MELI,Consumer Cyclical,"MercadoLibre, Inc."
+HLIO,Industrials,"Helios Technologies, Inc."
+IFNNY,Technology,Infineon Technologies AG
+SRPT,Healthcare,"Sarepta Therapeutics, Inc."
+VTR,Real Estate,"Ventas, Inc."
+AORT,Healthcare,"Artivion, Inc."
+APTV,Consumer Cyclical,Aptiv PLC
+HMN,Financial Services,Horace Mann Educators Corporati
+TSN,Consumer Defensive,"Tyson Foods, Inc."
+THO,Consumer Cyclical,"Thor Industries, Inc."
+DAR,Consumer Defensive,Darling Ingredients Inc.
+SPOT,Communication Services,Spotify Technology S.A.
+LSI,Unknown,
+NXRT,Real Estate,"NexPoint Residential Trust, Inc"
+MOS,Basic Materials,Mosaic Company (The)
+BXP,Real Estate,"BXP, Inc."
+DRH,Real Estate,Diamondrock Hospitality Company
+RLJ,Real Estate,RLJ Lodging Trust
+LBTYA,Communication Services,Liberty Global Ltd.
+SR,Utilities,Spire Inc.
+SKT,Real Estate,Tanger Inc.
+SHO,Real Estate,"Sunstone Hotel Investors, Inc. "
+ENTA,Healthcare,"Enanta Pharmaceuticals, Inc."
+PHIN,Consumer Cyclical,PHINIA Inc.
+HALO,Healthcare,"Halozyme Therapeutics, Inc."
+CBU,Financial Services,"Community Financial System, Inc"
+CIEN,Technology,Ciena Corporation
+AVTR,Healthcare,"Avantor, Inc."
+WELL,Real Estate,Welltower Inc.
+TEAM,Technology,Atlassian Corporation
+FNF,Financial Services,"Fidelity National Financial, In"
+KHC,Consumer Defensive,The Kraft Heinz Company
+PECO,Real Estate,"Phillips Edison & Company, Inc."
+EXR,Real Estate,Extra Space Storage Inc
+LVMUY,Consumer Cyclical,LVMH-Moet Hennessy Louis Vuitto
+STT,Financial Services,State Street Corporation
+EPAM,Technology,"EPAM Systems, Inc."
+AAP,Consumer Cyclical,Advance Auto Parts Inc.
+CLVT,Technology,Clarivate Plc
+TRIP,Consumer Cyclical,"TripAdvisor, Inc."
+EVBG,Unknown,
+UBA,Unknown,
+IIPR,Real Estate,Innovative Industrial Propertie
+CUBE,Real Estate,CubeSmart
+LBTYK,Communication Services,Liberty Global Ltd.
+PARAA,Unknown,
+KR,Consumer Defensive,Kroger Company (The)
+ADC,Real Estate,Agree Realty Corporation
+EQR,Real Estate,Equity Residential
+SGH,Unknown,
+BFS,Real Estate,"Saul Centers, Inc."
+HEI.A,Unknown,
+PLTK,Communication Services,Playtika Holding Corp.
+BEPC,Utilities,Brookfield Renewable Corporatio
+CTRE,Real Estate,"CareTrust REIT, Inc."
+AMCX,Communication Services,AMC Networks Inc.
+KRG,Real Estate,Kite Realty Group Trust
+HST,Real Estate,"Host Hotels & Resorts, Inc."
+AVB,Real Estate,"AvalonBay Communities, Inc."
+GTY,Real Estate,Getty Realty Corporation
+AMCR,Consumer Cyclical,Amcor plc
+STX,Technology,Seagate Technology Holdings PLC
+RLAY,Healthcare,"Relay Therapeutics, Inc."
+MKTX,Financial Services,"MarketAxess Holdings, Inc."
+UDR,Real Estate,"UDR, Inc."
+JAZZ,Healthcare,Jazz Pharmaceuticals plc
+AYX,Unknown,
+KLIC,Technology,"Kulicke and Soffa Industries, I"
+MAA,Real Estate,Mid-America Apartment Communiti
+TNDM,Healthcare,"Tandem Diabetes Care, Inc."
+INN,Real Estate,"Summit Hotel Properties, Inc."
+ESS,Real Estate,"Essex Property Trust, Inc."
+PEAK,Unknown,
+KRC,Real Estate,Kilroy Realty Corporation
+SBGI,Communication Services,"Sinclair, Inc."
+TFX,Healthcare,Teleflex Incorporated
+ROIC,Unknown,
+NVO,Healthcare,Novo Nordisk A/S
+BGNE,Unknown,
+UE,Real Estate,Urban Edge Properties
+USB,Financial Services,U.S. Bancorp
+SBAC,Real Estate,SBA Communications Corporation
+MOH,Healthcare,Molina Healthcare Inc
+WPM,Basic Materials,Wheaton Precious Metals Corp
+CNC,Healthcare,Centene Corporation
+ALEX,Real Estate,"Alexander & Baldwin, Inc."
+INVH,Real Estate,Invitation Homes Inc.
+CHPT,Consumer Cyclical,"ChargePoint Holdings, Inc."
+BELFB,Technology,Bel Fuse Inc.
+FN,Technology,Fabrinet
+EXC,Utilities,Exelon Corporation
+JBGS,Real Estate,JBG SMITH Properties
+HHC,Unknown,
+KDP,Consumer Defensive,Keurig Dr Pepper Inc.
+SLG,Real Estate,SL Green Realty Corp
+IRT,Real Estate,"Independence Realty Trust, Inc."
+FERG,Industrials,Ferguson Enterprises Inc.
+RWT,Real Estate,"Redwood Trust, Inc."
+CADE,Financial Services,Cadence Bank
+EQIX,Real Estate,"Equinix, Inc."
+PK,Real Estate,Park Hotels & Resorts Inc.
+DLTR,Consumer Defensive,"Dollar Tree, Inc."
+FCPT,Real Estate,"Four Corners Property Trust, In"
+ICHR,Technology,Ichor Holdings
+QDEL,Healthcare,QuidelOrtho Corporation
+PODD,Healthcare,Insulet Corporation
+OGS,Utilities,"ONE Gas, Inc."
+IOT,Technology,Samsara Inc.
+YUMC,Consumer Cyclical,"Yum China Holdings, Inc."
+PEB,Real Estate,Pebblebrook Hotel Trust
+RBA,Industrials,"RB Global, Inc."
+TFC,Financial Services,Truist Financial Corporation
+EPRT,Real Estate,Essential Properties Realty Tru
+EIX,Utilities,Edison International
+PSA,Real Estate,Public Storage
+EPR,Real Estate,EPR Properties
+PD,Technology,"PagerDuty, Inc."
+LUMN,Communication Services,"Lumen Technologies, Inc."
+KRYAY,Consumer Defensive,Kerry Group plc
+SMNEY,Industrials,Siemens Energy AG
+SALRY,Consumer Defensive,Salmar ASA
+HKXCY,Financial Services,Hong Kong Exchange & Clearing L
+ALFVY,Industrials,Alfa-Laval AB
+JHX,Basic Materials,James Hardie Industries plc.
+CCOEY,Communication Services,Capcom Co. Ltd
+TM,Consumer Cyclical,Toyota Motor Corporation
+DANOY,Consumer Defensive,Danone
+SHECY,Basic Materials,"Shin-Etsu Chemical Co., Ltd."
+IHG,Consumer Cyclical,Intercontinental Hotels Group
+LGRDY,Industrials,LeGrand SA
+BURBY,Consumer Cyclical,Burberry Group Plc
+HCMLY,Basic Materials,HOLCIM LTD
+HOCPY,Healthcare,Hoya Corp.
+SXYAY,Basic Materials,SIKA AG
+ARKAY,Basic Materials,Arkema
+DKILY,Industrials,Daikin Industries Ltd.
+IDEXY,Consumer Cyclical,Industria de Diseno Textil Indi
+TMICY,Technology,Trend Micro Inc.
+CSLLY,Healthcare,CSL Ltd.
+UPMMY,Basic Materials,UPM-Kymmene Corp.
+HESAY,Consumer Cyclical,Hermes International SA
+BXBLY,Industrials,"Brambles, Ltd."
+HSBC,Financial Services,"HSBC Holdings, plc."
+OLCLY,Consumer Cyclical,"Oriental Land Co., Ltd."
+NRILY,Technology,Nomura Research Institute Ltd.
+PUBGY,Communication Services,Publicis Groupe S.A.
+BAESY,Industrials,BAE Systems PLC
+SMFG,Financial Services,Sumitomo Mitsui Financial Group
+VWAPY,Consumer Cyclical,Volkswagen AG
+SDVKY,Industrials,Sandvik AB
+ANZGY,Financial Services,ANZ GROUP HLDGS LTD
+JSGRY,Industrials,LIXIL Corp.
+SVNDY,Consumer Defensive,"Seven & I Holdings Co., Ltd."
+SONVY,Healthcare,Sonova Holding AG
+NOK,Technology,Nokia Corporation Sponsored
+ANYYY,Industrials,Aena SME S.A.
+FJTSY,Technology,Fujitsu Ltd.
+HMC,Consumer Cyclical,"Honda Motor Company, Ltd."
+FRRVY,Unknown,
+TRUMY,Healthcare,Terumo Corp.
+JTKWY,Unknown,Just Eat Takeaway.com N.V.
+VACNY,Industrials,VAT Group AG
+BVVBY,Industrials,Bureau Veritas SA
+PROSY,Consumer Cyclical,Prosus NV
+UMICY,Industrials,Umicore SA
+UCBJY,Healthcare,UCB S.A.
+STBFY,Consumer Defensive,Suntory Beverage & Food Ltd
+AAVMY,Financial Services,Abn Amro BK N V
+TEZNY,Utilities,Terna Rete Elettrica Nazionale 
+PANDY,Unknown,
+GVDNY,Basic Materials,Givaudan SA
+TLGPY,Communication Services,Telstra Group Limited
+SAN,Financial Services,"Banco Santander, S.A. Sponsored"
+PUK,Financial Services,Prudential Public Limited Compa
+IFJPY,Communication Services,Informa Plc.
+AEG,Financial Services,Aegon Ltd. New York Registry Sh
+TKAMY,Industrials,ThyssenKrupp AG
+ADRNY,Consumer Defensive,Koninklijke Ahold Delhaize N.V.
+SCMWY,Communication Services,Swisscom AG
+RIO,Basic Materials,Rio Tinto Plc
+MKTAY,Industrials,Makita Corp.
+ZURVY,Financial Services,Zurich Insurance Group Ltd
+TCEHY,Communication Services,Tencent Holding Ltd.
+CJPRY,Industrials,Central Japan Railway Co.
+GNGBY,Healthcare,Getinge AB
+CODYY,Industrials,Compagnie de Saint-Gobain
+LOGI,Technology,Logitech International S.A. - R
+SAXPY,Financial Services,Sampo OYJ
+AHKSY,Industrials,Asahi Kaisei Corp.
+SKHHY,Healthcare,Sonic Healthcare Ltd.
+MDIBY,Financial Services,MedioBanca SpA
+NSANY,Consumer Cyclical,"Nissan Motor Co., Ltd."
+BTLCY,Real Estate,British Land Company (The) PLC
+CRH,Basic Materials,CRH PLC
+BAYRY,Healthcare,Bayer A.G.
+ISNPY,Financial Services,Intesa Sanpaolo S.p.A.
+KBCSY,Financial Services,KBC Group SA
+AZN,Healthcare,AstraZeneca PLC
+JSAIY,Consumer Defensive,J Sainsbury plc
+DLICY,Financial Services,"Dai-ichi Life Holdings, Inc."
+NMR,Financial Services,Nomura Holdings Inc
+IMBBY,Consumer Defensive,Imperial Brands PLC
+MGDDY,Unknown,CIE GENERALE DES ETABLISSEMENTS
+CAJPY,Technology,"Canon, Inc."
+JAPAY,Consumer Defensive,Japan Tobacco
+UUGRY,Utilities,United Utilities Group PLC
+RTO,Industrials,Rentokil Initial plc
+CRZBY,Financial Services,Commerzbank AG
+DNNGY,Utilities,Orsted A/S
+ENLAY,Utilities,ENEL Societa per Azioni
+SNY,Healthcare,Sanofi
+QBIEY,Financial Services,QBE Insurance Group Ltd.
+BNTGY,Basic Materials,Brenntag SE
+EPOKY,Unknown,
+GASNY,Utilities,Naturgy Energy Group SA
+TTNDY,Industrials,Techtronic Industries Ltd.
+MFG,Financial Services,"Mizuho Financial Group, Inc. Sp"
+EBKDY,Financial Services,Erste Group Bank AG
+DNZOY,Consumer Cyclical,Denso Corp.
+KMTUY,Industrials,Komatsu Ltd.
+MIELY,Industrials,Mitsubishi Electric Corp.
+CMWAY,Financial Services,Commonwealth Bank of Australia
+MTSFY,Real Estate,"Mitsui Fudosan Co., Ltd."
+VLVLY,Industrials,Volvo AB
+SINGY,Industrials,Singapore Airlines Ltd.
+AKZOY,Basic Materials,Akzo Nobel N.V.
+BDRFY,Consumer Defensive,Beiersdorf  AG
+SGSOY,Industrials,SGS SA
+SPKKY,Communication Services,Spark New Zealand Limited
+DSNKY,Healthcare,"Daiichi Sankyo Co., Ltd."
+TKOMY,Financial Services,"Tokio Marine Holdings, Inc."
+FSUGY,Basic Materials,FORTESCUE LTD.
+AONNY,Consumer Cyclical,Aeon Co. Ltd.
+SE,Consumer Cyclical,Sea Limited
+DRPRY,Consumer Cyclical,DR ING H C F PORSCHE AG
+KGSPY,Industrials,Kingspan Group plc.
+MTUAY,Industrials,MTU Aero Engines AG
+GBERY,Industrials,Geberit AG
+ALC,Healthcare,Alcon Inc.
+SUTNY,Financial Services,"Sumitomo Mitsui Trust Group, In"
+YASKY,Industrials,Yaskawa Electric Corp.
+KIM,Real Estate,Kimco Realty Corporation (HC)
+DNPLY,Industrials,Dai Nippon Printing Co. Ltd.
+HSQVY,Industrials,Husqvarna AB
+SKHSY,Consumer Cyclical,Sekisui House Ltd.
+CLLNY,Real Estate,Cellnex Telecom SA
+SNN,Healthcare,"Smith & Nephew SNATS, Inc."
+FUJIY,Industrials,FUJIFILM Holdings Corp.
+SOMMY,Basic Materials,"Sumitomo Chemical Co., Ltd."
+MSLOY,Industrials,Mitsui O.S.K. Lines Ltd.
+SMMNY,Healthcare,Siemens Healthineers AG
+OTSKY,Healthcare,Otsuka Holdings Co. Ltd.
+PRYMY,Industrials,Prysmian S.P.A.
+DTEGY,Communication Services,Deutsche Telekom AG
+ESLOY,Healthcare,EssilorLuxottica
+DWAHY,Real Estate,Daiwa House Industry Co. Ltd.
+TOELY,Technology,Tokyo Electron Ltd.
+BRDCY,Consumer Cyclical,Bridgestone Corp.
+MSADY,Financial Services,"MS&AD Insurance Group Holdings,"
+WJRYY,Industrials,West Japan Railway Co.
+ARGX,Healthcare,argenx SE
+OPHLY,Healthcare,"Ono Pharmaceutical Co., Ltd."
+SFTBY,Communication Services,Softbank Group Corp
+MSSMY,Industrials,"Misumi Group, Inc."
+MURGY,Financial Services,Muenchener Rueckver Ges
+CGEMY,Technology,Capgemini SE
+CLPBY,Healthcare,Coloplast AS
+TLPFY,Industrials,Teleperformance
+SCGLY,Financial Services,Societe Generale
+SMTOY,Consumer Cyclical,Sumitomo Electric Industries Lt
+BNPQY,Financial Services,BNP Paribas
+SMCAY,Industrials,SMC Corp
+ABBNY,Industrials,ABB Ltd.
+OVCHY,Financial Services,"Overseas Chinese Banking Corp.,"
+RHHBY,Healthcare,Roche Holding Ltd
+ZLNDY,Consumer Cyclical,ZALANDO SE
+SPXCY,Financial Services,Singapore Exchange Ltd.
+SIEGY,Industrials,Siemens AG
+MKKGY,Healthcare,Merck KGaA
+MZDAY,Consumer Cyclical,Mazda Motor Corp.
+BTI,Consumer Defensive,British American Tobacco  Indus
+KHNGY,Industrials,Kuehne & Nagel International AG
+YARIY,Basic Materials,Yara International ASA
+KNBWY,Consumer Defensive,"Kirin Holdings Co., Ltd."
+DSCSY,Technology,Disco Corp.
+NWG,Financial Services,NatWest Group plc
+ASHTY,Industrials,Ashtead Group PLC
+WPP,Communication Services,WPP plc
+CZMWY,Healthcare,Carl Zeiss Meditec AG
+NRDBY,Financial Services,Nordea Bank Abp
+ALPMY,Healthcare,"Astellas Pharma, Inc."
+NICE,Technology,NICE Ltd
+VCISY,Industrials,Vinci SA
+LSRCY,Technology,Lasertec Corp.
+RELX,Industrials,RELX PLC PLC
+SYIEY,Basic Materials,Symrise Ag
+YAMHY,Unknown,
+SWRAY,Industrials,Swire Pacific Ltd.
+NEXOY,Communication Services,Nexon Co Ltd.
+MQBKY,Financial Services,"Macquarie Group, Ltd."
+AVVIY,Financial Services,Aviva Plc
+DQJCY,Consumer Defensive,Pan Pac Intl Hldgs Corp.
+SSREY,Financial Services,Swiss Re Ltd
+QABSY,Industrials,Qantas Airways Ltd.
+JRONY,Consumer Defensive,"Jeronimo Martins, SGPS, SA"
+HXGBY,Technology,Hexagon AB
+RNMBY,Industrials,Rheinmetall AG
+OCDDY,Consumer Defensive,Ocado Group PLC
+ICL,Basic Materials,ICL Group Ltd.
+HEINY,Consumer Defensive,Heineken N.V.
+HVRRY,Financial Services,Hannover Re
+NINOY,Consumer Cyclical,Nikon Corp.
+NDEKY,Basic Materials,Nitto Denko Corp.
+DFKCY,Industrials,"Daifuku Co., Ltd."
+KSRYY,Consumer Defensive,Kose Corp.
+ADDYY,Consumer Cyclical,adidas AG
+SSMXY,Healthcare,Sysmex Corp.
+KDDIY,Communication Services,KDDI Corp.
+SMFKY,Unknown,
+WRDLY,Technology,Worldline SA
+DB,Financial Services,Deutsche Bank AG
+MRAAY,Technology,Murata Manufacturing Inc.
+AHEXY,Industrials,Adecco Group AG
+NVS,Healthcare,Novartis AG
+NTDOY,Communication Services,"Nintendo Co., Ltd."
+ITTOY,Unknown,
+ERIC,Technology,Ericsson
+TMSNY,Technology,Temenos AG
+ISUZY,Consumer Cyclical,"Isuzu Motors, Ltd."
+AMKBY,Industrials,A.P. Moeller-Maersk A/S
+TEF,Communication Services,Telefonica SA
+DNBBY,Financial Services,DNB ASA
+STM,Technology,STMicroelectronics N.V.
+UBS,Financial Services,UBS Group AG Registered
+LYG,Financial Services,Lloyds Banking Group Plc
+ALIZY,Financial Services,Allianz SE
+SAFRY,Industrials,Safran SA
+ING,Financial Services,"ING Group, N.V."
+NABZY,Financial Services,National Australia Bank Ltd. (V
+AIQUY,Basic Materials,L'Air Liquide SA
+TRYIY,Consumer Cyclical,Toray Industries Inc.
+CRARY,Financial Services,Credit Agricole SA
+IBDRY,Utilities,Iberdrola S.A.
+OLYMY,Healthcare,Olympus Corp.
+NTTYY,Communication Services,NTT Inc.
+MUFG,Financial Services,"Mitsubishi UFJ Financial Group,"
+ALLE,Industrials,Allegion plc
+SUHJY,Real Estate,Sun Hung Kai Properties Ltd.
+NNGRY,Financial Services,NN Group NV
+KNRRY,Consumer Cyclical,Knorr-Bremse
+ATEYY,Technology,Advantest Corp.
+EDPFY,Utilities,EDP S A
+HDELY,Unknown,
+HTHIY,Industrials,Hitachi Ltd.
+NCBDY,Consumer Cyclical,"Bandai Namco Holdings, Inc."
+NCMGY,Unknown,
+TOTDY,Industrials,Toto Ltd.
+MBGYY,Consumer Cyclical,Mercedes Benz Group AG
+AJINY,Consumer Defensive,"Ajinomoto Co., Inc."
+NJDCY,Industrials,Nidec Corp.
+RANJY,Industrials,Randstad NV
+FMS,Healthcare,Fresenius Medical Care AG
+NGG,Utilities,"National Grid Transco, PLC Nati"
+MHGVY,Consumer Defensive,Mowi ASA
+ENGIY,Utilities,ENGIE SA
+KGFHY,Consumer Cyclical,Kingfisher plc
+EADSY,Industrials,Airbus SE
+BBVA,Financial Services,Banco Bilbao Vizcaya Argentaria
+KKPNY,Communication Services,Royal KPN NV
+BUD,Consumer Defensive,Anheuser-Busch Inbev SA Sponsor
+VEOEY,Industrials,Veolia Environnement
+SSEZY,Utilities,SSE Plc
+AMADY,Technology,Amadeus IT Group SA
+CHEOY,Healthcare,CochLear Ltd.
+TTDKY,Technology,TDK Corp.
+MTHRY,Healthcare,"M3, Inc."
+CMSQY,Financial Services,Computershare Ltd.
+DBOEY,Financial Services,Deutsche Boerse AG
+RPT,Real Estate,Rithm Property Trust Inc.
+DHLGY,Industrials,Deutsche Post AG
+VWAGY,Consumer Cyclical,Volkswagen AG
+OMRNY,Technology,OMRON Corp.
+FBP,Financial Services,First BanCorp. New
+SWDBY,Financial Services,Swedbank AB
+BMRRY,Consumer Defensive,B&M European Value Retail SA
+RACE,Consumer Cyclical,Ferrari N.V.
+AXAHY,Financial Services,AXA
+SOAGY,Healthcare,Sartorius AG
+SZKMY,Consumer Cyclical,Suzuki Motor Co.
+UOVEY,Financial Services,United Overseas Bank Ltd.
+SKFRY,Industrials,AB SKF
+SVNLY,Financial Services,Svenska Handelsbanken AB PUBL
+FRCOY,Consumer Cyclical,Fast Retailing Co. Ltd.
+SKLTY,Communication Services,Seek Ltd
+BDNNY,Basic Materials,Boliden AB
+DNTUY,Communication Services,Dentsu Group Inc.
+BCS,Financial Services,Barclays PLC
+NTES,Communication Services,"NetEase, Inc."
+SOBKY,Communication Services,Softbank Corp.
+GSK,Healthcare,GSK plc
+SNV,Financial Services,Synovus Financial Corp.
+BROS,Consumer Cyclical,Dutch Bros Inc.
+VAL,Energy,Valaris Limited
+FDX,Industrials,FedEx Corporation
+OLPX,Consumer Cyclical,"Olaplex Holdings, Inc."
+CLF,Basic Materials,Cleveland-Cliffs Inc.
+LCID,Consumer Cyclical,"Lucid Group, Inc."
+PARA,Unknown,
+ATUS,Unknown,
+DISH,Unknown,
+QS,Consumer Cyclical,QuantumScape Corporation
+SHOP,Technology,Shopify Inc.
+BIDU,Communication Services,"Baidu, Inc."
+SNPS,Technology,"Synopsys, Inc."
+HUBS,Technology,"HubSpot, Inc."
+SRE$A,Unknown,
+FTV,Technology,Fortive Corporation
+IR,Industrials,Ingersoll Rand Inc.
+ARGO,Unknown,
+GPN,Industrials,Global Payments Inc.
+PTON,Consumer Cyclical,"Peloton Interactive, Inc."
+GLD,Unknown,SPDR Gold Shares
+SIRE,Unknown,
+FHN,Financial Services,First Horizon Corporation
+ODFL,Industrials,"Old Dominion Freight Line, Inc."
+CTAS,Industrials,Cintas Corporation
+MET,Financial Services,"MetLife, Inc."
+CINF,Financial Services,Cincinnati Financial Corporatio
+BCE,Communication Services,"BCE, Inc."
+FITB,Financial Services,Fifth Third Bancorp
+SON,Consumer Cyclical,Sonoco Products Company
+AWK,Utilities,"American Water Works Company, I"
+DECK,Consumer Cyclical,Deckers Outdoor Corporation
+NNN,Real Estate,"NNN REIT, Inc."
+AGR,Unknown,
+AEP,Utilities,American Electric Power Company
+TRU,Financial Services,TransUnion
+IPG,Unknown,
+USPH,Healthcare,"U.S. Physical Therapy, Inc."
+CEG,Utilities,Constellation Energy Corporatio
+ABB,Unknown,
+KEYS,Technology,Keysight Technologies Inc.
+AQUA,Unknown,
+ETSY,Consumer Cyclical,"Etsy, Inc."
+UI,Technology,Ubiquiti Inc.
+SNAP,Communication Services,Snap Inc.
+VFC,Consumer Cyclical,V.F. Corporation
+AJG,Financial Services,Arthur J. Gallagher & Co.
+CCK,Consumer Cyclical,"Crown Holdings, Inc."
+FQAL,Unknown,Fidelity Quality Factor ETF
+BHF,Financial Services,"Brighthouse Financial, Inc."
+PEG,Utilities,Public Service Enterprise Group
+IYY,Unknown,iShares Dow Jones U.S. ETF
+WFAFY,Consumer Cyclical,Wesfarmers Ltd.
+RSP,Unknown,Invesco S&P 500 Equal Weight ET
+IWD,Unknown,iShares Russell 1000 Value ETF
+SYF,Financial Services,Synchrony Financial
+RITM,Real Estate,Rithm Capital Corp.
+KRTX,Unknown,
+EDIT,Healthcare,"Editas Medicine, Inc."
+AIG,Financial Services,"American International Group, I"
+CONN,Unknown,
+CTVA,Basic Materials,"Corteva, Inc."
+UGI,Utilities,UGI Corporation
+COLB,Financial Services,"Columbia Banking System, Inc."
+NTNX,Technology,"Nutanix, Inc."
+RNG,Technology,"Ringcentral, Inc."
+PLUG,Industrials,"Plug Power, Inc."
+NTRA,Healthcare,"Natera, Inc."
+NOV,Energy,NOV Inc.
+GM,Consumer Cyclical,General Motors Company
+HUN,Basic Materials,Huntsman Corporation
+ESRT,Real Estate,"Empire State Realty Trust, Inc."
+RGA,Financial Services,"Reinsurance Group of America, I"
+X,Unknown,
+ARRY,Technology,"Array Technologies, Inc."
+MRTX,Unknown,
+GTLB,Technology,GitLab Inc.
+ENPH,Technology,"Enphase Energy, Inc."
+UAL,Industrials,"United Airlines Holdings, Inc."
+FOLD,Healthcare,"Amicus Therapeutics, Inc."
+AAT,Real Estate,"American Assets Trust, Inc."
+NEM,Basic Materials,Newmont Corporation
+TAP,Consumer Defensive,Molson Coors Beverage Company
+UNM,Financial Services,Unum Group
+SBRA,Real Estate,"Sabra Health Care REIT, Inc."
+AXS,Financial Services,Axis Capital Holdings Limited
+CWK,Real Estate,Cushman & Wakefield Ltd.
+OUT,Real Estate,OUTFRONT Media Inc.
+ZS,Technology,"Zscaler, Inc."
+APO,Financial Services,"Apollo Global Management, Inc. "
+AFRM,Financial Services,"Affirm Holdings, Inc."
+VTRS,Healthcare,Viatris Inc.
+BILL,Technology,"BILL Holdings, Inc."
+FCNCA,Financial Services,"First Citizens BancShares, Inc."
+INSP,Healthcare,"Inspire Medical Systems, Inc."
+VNO,Real Estate,Vornado Realty Trust
+QTWO,Technology,"Q2 Holdings, Inc."
+LPSN,Technology,"LivePerson, Inc."
+MLKN,Consumer Cyclical,"MillerKnoll, Inc."
+LC,Financial Services,LendingClub Corporation
+CSGP,Real Estate,"CoStar Group, Inc."
+DDOG,Technology,"Datadog, Inc."
+VAC,Consumer Cyclical,Marriott Vacations Worldwide Co
+AKR,Real Estate,Acadia Realty Trust
+FLO,Consumer Defensive,"Flowers Foods, Inc."
+ROKU,Communication Services,"Roku, Inc."
+OPEN,Real Estate,Opendoor Technologies Inc
+DLR,Real Estate,"Digital Realty Trust, Inc."
+MDGL,Healthcare,"Madrigal Pharmaceuticals, Inc."
+WBS,Financial Services,Webster Financial Corporation
+FCEL,Industrials,"FuelCell Energy, Inc."
+EWBC,Financial Services,"East West Bancorp, Inc."
+NYCB,Unknown,
+CPT,Real Estate,Camden Property Trust
+NFG,Energy,National Fuel Gas Company
+MRVI,Healthcare,"Maravai LifeSciences Holdings, "
+YOU,Technology,"Clear Secure, Inc."
+WY,Real Estate,Weyerhaeuser Company
+JLL,Real Estate,Jones Lang LaSalle Incorporated
+AGNC,Real Estate,AGNC Investment Corp.
+CAR,Industrials,"Avis Budget Group, Inc."
+DNB,Unknown,
+AHCO,Healthcare,AdaptHealth Corp.
+CHDN,Consumer Cyclical,"Churchill Downs, Incorporated"
+APPF,Technology,"AppFolio, Inc."
+CNHI,Unknown,
+GRFS,Healthcare,"Grifols, S.A."
+MONOY,Consumer Cyclical,"Monotaro Co., Ltd."
+SKBSY,Industrials,Skanska AB
+ASXFY,Financial Services,"ASX, Ltd."
+ECL,Basic Materials,Ecolab Inc.
+DPSGY,Unknown,
+MITEY,Real Estate,Mitsubishi Estate Co. Ltd.
+NTDTY,Technology,NTT DATA GROUP CORPORATION
+BHKLY,Financial Services,BOC Hong Kong (Holdings) Ltd.
+SSB,Financial Services,SouthState Bank Corporation
+VIASP,Utilities,"Via Renewables, Inc. - 8.75% Se"
+BOH,Financial Services,Bank of Hawaii Corporation
+FRC,Unknown,
+CS,Unknown,
+MPC,Energy,Marathon Petroleum Corporation
+WCC,Industrials,"WESCO International, Inc."
+ABCB,Financial Services,Ameris Bancorp
+TYG,Financial Services,Tortoise Energy Infrastructure 
+CIVI,Energy,"Civitas Resources, Inc."
+WDS,Energy,Woodside Energy Group Limited
+SIVB,Unknown,
+SCHD,Unknown,Schwab US Dividend Equity ETF
+CPB,Consumer Defensive,The Campbell's Company
+BCC,Basic Materials,"Boise Cascade, L.L.C."
+OHI,Real Estate,"Omega Healthcare Investors, Inc"
+CTLT,Unknown,
+GMED,Healthcare,"Globus Medical, Inc."
+DEI,Real Estate,"Douglas Emmett, Inc."
+GO,Consumer Defensive,Grocery Outlet Holding Corp.
+WAL,Financial Services,Western Alliance Bancorporation
+ED,Utilities,"Consolidated Edison, Inc."
+DAL,Industrials,"Delta Air Lines, Inc."
+NLY,Real Estate,Annaly Capital Management Inc.
+Z,Communication Services,"Zillow Group, Inc."
+APPS,Technology,"Digital Turbine, Inc."
+ALLY,Financial Services,Ally Financial Inc.
+RJF,Financial Services,"Raymond James Financial, Inc."
+BMRN,Healthcare,BioMarin Pharmaceutical Inc.
+BLNK,Industrials,Blink Charging Co.
+SILK,Unknown,
+PAYC,Technology,"Paycom Software, Inc."
+SBNY,Financial Services,"Signature Bank (New York, NY)"
+MKC,Consumer Defensive,"McCormick & Company, Incorporat"
+ELAN,Healthcare,Elanco Animal Health Incorporat
+HPQ,Technology,HP Inc.
+HE,Utilities,"Hawaiian Electric Industries, I"
+BRO,Financial Services,"Brown & Brown, Inc."
+CDNA,Healthcare,"CareDx, Inc."
+HPP,Real Estate,"Hudson Pacific Properties, Inc."
+CNP,Utilities,"CenterPoint Energy, Inc (Holdin"
+INCY,Healthcare,Incyte Corporation
+PACW,Unknown,
+BIIB,Healthcare,Biogen Inc.
+IONS,Healthcare,"Ionis Pharmaceuticals, Inc."
+SRE,Utilities,DBA Sempra
+RIVN,Consumer Cyclical,"Rivian Automotive, Inc."
+IBRX,Healthcare,"ImmunityBio, Inc."
+RTN,Unknown,
+PFF,Unknown,iShares Preferred and Income Se
+CF,Basic Materials,"CF Industries Holdings, Inc."
+RUN,Technology,Sunrun Inc.
+FIVE,Consumer Cyclical,"Five Below, Inc."
+UNICY,Consumer Defensive,Unicharm Corp.
+SGAPY,Communication Services,Singapore Telecommunications Lt
+TOSYY,Unknown,
+TELNY,Communication Services,Telenor ASA
+ELUXY,Consumer Cyclical,AB Electrolux
+KKOYY,Consumer Defensive,Kesko OY
+CBZ,Industrials,"CBIZ, Inc."
+PFGC,Consumer Defensive,Performance Food Group Company
+MRO,Unknown,
+BRK.A,Unknown,
+CANO,Unknown,
+VEEV,Healthcare,Veeva Systems Inc.
+WDAY,Technology,"Workday, Inc."
+VRSK,Industrials,"Verisk Analytics, Inc."
+ADP,Technology,"Automatic Data Processing, Inc."
+IBN,Financial Services,ICICI Bank Limited
+MTCH,Communication Services,"Match Group, Inc."
+RSG,Industrials,"Republic Services, Inc."
+ARWR,Healthcare,"Arrowhead Pharmaceuticals, Inc."
+HZNP,Unknown,
+SWAV,Unknown,
+SYNH,Unknown,
+MAXR,Unknown,
+FATE,Healthcare,"Fate Therapeutics, Inc."
+WIW,Financial Services,Western Asset Inflation-Linked 
+CHE,Healthcare,Chemed Corp
+ICLR,Healthcare,ICON plc
+ORLY,Consumer Cyclical,"O'Reilly Automotive, Inc."
+ENVX,Industrials,Enovix Corporation
+SPWR,Technology,SunPower Inc.
+RBLX,Communication Services,Roblox Corporation
+HAS,Consumer Cyclical,"Hasbro, Inc."
+ESALY,Unknown,
+RDSMY,Unknown,
+AGI,Basic Materials,Alamos Gold Inc.
+MTSI,Technology,MACOM Technology Solutions Hold
+CG,Financial Services,The Carlyle Group Inc.
+AME,Industrials,"AMETEK, Inc."
+CHRS,Healthcare,"Coherus Oncology, Inc."
+CMPS,Healthcare,COMPASS Pathways Plc - American
+BAX,Healthcare,Baxter International Inc.
+TTWO,Communication Services,"Take-Two Interactive Software, "
+PSO,Communication Services,"Pearson, Plc"
+JAPSY,Industrials,Japan Airlines Ltd
+WTRG,Utilities,"Essential Utilities, Inc."
+FAST,Industrials,Fastenal Company
+BHP,Basic Materials,BHP Group Limited
+GEHC,Healthcare,GE HealthCare Technologies Inc.
+JEF,Financial Services,Jefferies Financial Group Inc.
+SUPN,Healthcare,"Supernus Pharmaceuticals, Inc."
+GNRC,Industrials,Generac Holdlings Inc.
+ARCB,Industrials,ArcBest Corporation
+BLL,Unknown,
+WYNN,Consumer Cyclical,"Wynn Resorts, Limited"
+MASI,Healthcare,Masimo Corporation
+ATHA,Healthcare,"Athira Pharma, Inc."
+CRGY,Energy,Crescent Energy Company
+GEVO,Basic Materials,"Gevo, Inc."
+MNRL,Unknown,
+NTST,Real Estate,NetSTREIT Corp.
+AVXL,Healthcare,Anavex Life Sciences Corp.
+TELL,Unknown,
+PCVX,Healthcare,"Vaxcyte, Inc."
+SWTX,Unknown,
+CTRA,Energy,Coterra Energy Inc.
+XPRO,Energy,Expro Group Holdings N.V.
+KURA,Healthcare,"Kura Oncology, Inc."
+AROC,Energy,"Archrock, Inc."
+DOC,Real Estate,"Healthpeak Properties, Inc."
+KRYS,Healthcare,"Krystal Biotech, Inc."
+SAVA,Healthcare,"Cassava Sciences, Inc."
+KALV,Healthcare,"KalVista Pharmaceuticals, Inc."
+NESR,Energy,National Energy Services Reunit
+BLFS,Healthcare,"BioLife Solutions, Inc."
+HLX,Energy,"Helix Energy Solutions Group, I"
+HP,Energy,"Helmerich & Payne, Inc."
+NOTV,Healthcare,"Inotiv, Inc."
+RLMD,Healthcare,"Relmada Therapeutics, Inc."
+INSW.V,Unknown,
+CMTG,Real Estate,"Claros Mortgage Trust, Inc."
+COGT,Healthcare,"Cogent Biosciences, Inc."
+INSM,Healthcare,Insmed Incorporated
+ESI,Basic Materials,Element Solutions Inc.
+HOLX,Healthcare,"Hologic, Inc."
+GFL,Industrials,GFL Environmental Inc. Subordin
+BFAM,Consumer Cyclical,Bright Horizons Family Solution
+FOUR,Technology,"Shift4 Payments, Inc."
+ACHC,Healthcare,"Acadia Healthcare Company, Inc."
+BKI,Unknown,
+ENTG,Technology,"Entegris, Inc."
+BLDR,Industrials,"Builders FirstSource, Inc."
+GT,Consumer Cyclical,The Goodyear Tire & Rubber Comp
+XYL,Industrials,Xylem Inc.
+PLNT,Consumer Cyclical,"Planet Fitness, Inc."
+CDW,Technology,CDW Corporation
+AZEK,Unknown,
+LYV,Communication Services,"Live Nation Entertainment, Inc."
+REZI,Industrials,"Resideo Technologies, Inc."
+MAT,Consumer Cyclical,"Mattel, Inc."
+LESL,Consumer Cyclical,"Leslie's, Inc."
+BBWI,Consumer Cyclical,"Bath & Body Works, Inc."
+USFD,Consumer Defensive,US Foods Holding Corp.
+DSEY,Unknown,
+BERY,Unknown,
+SCI,Consumer Cyclical,Service Corporation Internation
+VICI,Real Estate,VICI Properties Inc.
+SMG,Basic Materials,Scotts Miracle-Gro Company (The
+QRVO,Technology,"Qorvo, Inc."
+CZR,Consumer Cyclical,"Caesars Entertainment, Inc."
+CLR,Unknown,
+ZIMV,Unknown,
+SSLTY,Unknown,
+OXY,Energy,Occidental Petroleum Corporatio
+ZBH,Healthcare,"Zimmer Biomet Holdings, Inc."
+MCO,Financial Services,Moody's Corporation
+CHD,Consumer Defensive,"Church & Dwight Company, Inc."
+CARG,Consumer Cyclical,"CarGurus, Inc."
+AMP,Financial Services,"Ameriprise Financial, Inc."
+CR,Industrials,Crane Company
+QYLD,Unknown,Global X NASDAQ 100 Covered Cal
+DGX,Healthcare,Quest Diagnostics Incorporated
+BTEC,Unknown,Principal Healthcare Innovators
+SRVR,Unknown,Pacer Data & Infrastructure Rea
+FLYW,Technology,Flywire Corporation - Voting
+HSAC,Unknown,
+AKRO,Unknown,
+KOD,Healthcare,Kodiak Sciences Inc
+BCEL,Unknown,
+OCGN,Healthcare,"Ocugen, Inc."
+ENOB,Unknown,
+TLRN,Unknown,
+SI,Unknown,"Shoulder Innovations, Inc."
+U,Technology,Unity Software Inc.
+NUE,Basic Materials,Nucor Corporation
+VYM,Unknown,Vanguard High Dividend Yield ET
+FHYS,Unknown,Federated Hermes Short Duration
+FDEV,Unknown,Fidelity Emerging Markets Multi
+TWTR,Unknown,
+AE,Unknown,
+JOE,Real Estate,St. Joe Company (The)
+KBH,Consumer Cyclical,KB Home
+FB,Unknown,ProShares S&P 500 Dynamic Buffe
+FAS,Unknown,Direxion Financial Bull 3X Shar
+USO,Unknown,United States Oil Fund
+ANDE,Consumer Defensive,"The Andersons, Inc."
+CPXWF,Utilities,Capital Power Corp.
+CCXI,Unknown,Churchill Capital Corp XI
+ISEE,Unknown,
+PLL,Unknown,
+AEE,Utilities,Ameren Corporation
+AMLX,Healthcare,"Amylyx Pharmaceuticals, Inc."
+BRCM,Unknown,7486608
+PPL,Utilities,PPL Corporation
+PCTY,Technology,Paylocity Holding Corporation
+BRMK,Unknown,
+VTNR,Unknown,"Vertex Energy, Inc"
+EXPE,Consumer Cyclical,"Expedia Group, Inc."
+DGRO,Unknown,iShares Core Dividend Growth ET
+IMKTA,Consumer Defensive,"Ingles Markets, Incorporated"
+GOGL,Unknown,
+AA,Basic Materials,Alcoa Corporation
+MGY,Energy,Magnolia Oil & Gas Corporation
+WRK,Unknown,
+NEWT,Financial Services,"NewtekOne, Inc."
+SJT,Energy,San Juan Basin Royalty Trust
+KMX,Consumer Cyclical,CarMax Inc
+STAG,Real Estate,"Stag Industrial, Inc."
+CVET,Unknown,
+LGF.B,Unknown,
+ABMD,Unknown,
+ONEQ,Unknown,Fidelity Nasdaq Composite Index
+CHTR,Communication Services,"Charter Communications, Inc."
+ROST,Consumer Cyclical,"Ross Stores, Inc."
+LBRDA,Communication Services,Liberty Broadband Corporation
+NHI,Real Estate,"National Health Investors, Inc."
+PTC,Technology,PTC Inc.
+XLE,Unknown,State Street Energy Select Sect
+OZKAP,Financial Services,Bank OZK - 4.625% Series A Non-
+CDNS,Technology,"Cadence Design Systems, Inc."
+HIL,Unknown,
+AMC,Communication Services,"AMC Entertainment Holdings, Inc"
+MS$P,Unknown,
+RPD,Technology,"Rapid7, Inc."
+PYPLV,Unknown,
+LUV,Industrials,Southwest Airlines Company
+DPZ,Consumer Cyclical,Domino's Pizza Inc
+EMN,Basic Materials,Eastman Chemical Company
+TROW,Financial Services,"T. Rowe Price Group, Inc."
+APA,Energy,APA Corporation
+DURA,Unknown,VanEck Durable High Dividend ET
+CMA,Financial Services,Comerica Incorporated
+FICO,Technology,Fair Isaac Corporation
+CARR,Industrials,Carrier Global Corporation
+PHM,Consumer Cyclical,"PulteGroup, Inc."
+DRI,Consumer Cyclical,"Darden Restaurants, Inc."
+VRAI,Unknown,Virtus Real Asset Income ETF
+KEY,Financial Services,KeyCorp
+REG,Real Estate,Regency Centers Corporation
+L,Financial Services,Loews Corporation
+CE,Basic Materials,Celanese Corporation
+GOLD,Financial Services,"Gold.com, Inc."
+NVR,Consumer Cyclical,"NVR, Inc."
+WHR,Consumer Cyclical,Whirlpool Corporation
+BK,Financial Services,The Bank of New York Mellon Cor
+MAS,Industrials,Masco Corporation
+FIP,Industrials,FTAI Infrastructure Inc.
+KNOP,Energy,KNOT Offshore Partners LP
+BURL,Consumer Cyclical,"Burlington Stores, Inc."
+SCHF,Unknown,Schwab International Equity ETF
+GXO,Industrials,"GXO Logistics, Inc."
+NOVT,Technology,Novanta Inc.
+AATC,Technology,Autoscope Technologies Corporat
+VTRSV,Unknown,
+STNG,Energy,Scorpio Tankers Inc.
+AR,Energy,Antero Resources Corporation
+UBSI,Financial Services,"United Bankshares, Inc."
+ESTE,Unknown,
+SM,Energy,SM Energy Company
+ASBC,Unknown,372487
+GNKOQ,Unknown,
+CDEV,Unknown,
+XP,Financial Services,XP Inc.
+PBA,Energy,Pembina Pipeline Corp.
+UVV,Consumer Defensive,Universal Corporation
+TXT,Industrials,Textron Inc.
+TIP,Unknown,iShares TIPS Bond ETF
+SPR,Unknown,
+MFC,Financial Services,Manulife Financial Corporation
+BEKE,Real Estate,KE Holdings Inc
+EPD,Energy,Enterprise Products Partners L.
+CWEN.A,Unknown,
+FNB,Financial Services,F.N.B. Corporation
+TXRH,Consumer Cyclical,"Texas Roadhouse, Inc."
+AGCO,Industrials,AGCO Corporation
+NWBI,Financial Services,"Northwest Bancshares, Inc."
+AVNT,Basic Materials,Avient Corporation
+LHCG,Unknown,
+ITT,Industrials,ITT Inc.
+SKY,Consumer Cyclical,"Champion Homes, Inc."
+RTL,Unknown,
+IMAX,Communication Services,Imax Corporation
+RC,Real Estate,Ready Capital Corporation
+AXSM,Healthcare,"Axsome Therapeutics, Inc."
+UUUU,Energy,Energy Fuels Inc
+ACAD,Healthcare,ACADIA Pharmaceuticals Inc.
+FIXD,Unknown,First Trust Smith Opportunistic
+CPE,Unknown,
+ALLK,Unknown,
+MAC,Real Estate,Macerich Company (The)
+PLAN,Unknown,
+NAT,Energy,Nordic American Tankers Limited
+KOS,Energy,Kosmos Energy Ltd.
+NBR,Energy,Nabors Industries Ltd.
+NEX,Unknown,
+GNK,Industrials,Genco Shipping & Trading Limite
+SHYG,Unknown,iShares 0-5 Year High Yield Cor
+IWB,Unknown,iShares Russell 1000 ETF
+ASB,Financial Services,Associated Banc-Corp
+BRBR,Consumer Defensive,"BellRing Brands, Inc."
+CERN,Unknown,
+TTE,Energy,TotalEnergies SE
+PPA,Unknown,Invesco Aerospace & Defense ETF
+PAVE,Unknown,Global X U.S. Infrastructure De
+OXBR,Financial Services,Oxbridge Re Holdings Limited
+VCSH,Unknown,Vanguard Short-Term Corporate B
+MTBC,Unknown,
+UPST,Financial Services,"Upstart Holdings, Inc."
+FLL,Consumer Cyclical,"Full House Resorts, Inc."
+ORI,Financial Services,Old Republic International Corp
+CHKP,Technology,Check Point Software Technologi
+DRE,Unknown,
+RH,Consumer Cyclical,RH
+MP,Basic Materials,MP Materials Corp.
+Y,Unknown,
+NEE$Q,Unknown,
+JD,Consumer Cyclical,"JD.com, Inc."
+SCHH,Unknown,Schwab U.S. REIT ETF
+CRNC,Technology,Cerence Inc.
+SDC,Unknown,
+SPCE,Industrials,"Virgin Galactic Holdings, Inc."
+UGRO,Industrials,"urban-gro, Inc."
+TLRY,Healthcare,"Tilray Brands, Inc."
+USAC,Energy,"USA Compression Partners, LP"
+ECOL,Unknown,
+R,Industrials,"Ryder System, Inc."
+ETRN,Unknown,
+ARKK,Unknown,ARK Innovation ETF
+NEO,Healthcare,"NeoGenomics, Inc."
+TWST,Healthcare,Twist Bioscience Corporation
+AMH,Real Estate,American Homes 4 Rent
+ARKG,Unknown,ARK Genomic Revolution ETF
+JBI,Industrials,"Janus International Group, Inc."
+DOW,Basic Materials,Dow Inc.
+NNGPF,Financial Services,NN Group NV
+UPMKF,Basic Materials,UPM-Kymmene Corp.
+VALE,Basic Materials,VALE S.A.
+PSMMY,Consumer Cyclical,Persimmon Plc
+TGOPY,Financial Services,3i Group
+EVRG,Utilities,"Evergy, Inc."
+VOLVY,Unknown,77188
+NTT,Unknown,193502
+BTVCY,Unknown,
+ASX,Technology,"ASE Technology Holding Co., Ltd"
+DNHBY,Unknown,
+PWCDF,Financial Services,Power Corp. of Canada
+TSCDY,Consumer Defensive,Tesco PLC
+SKHCY,Unknown,
+CSTL,Healthcare,"Castle Biosciences, Inc."
+BANC$E,Unknown,
+BLKB,Technology,"Blackbaud, Inc."
+FLEX,Technology,Flex Ltd.
+MGA,Consumer Cyclical,"Magna International, Inc."
+AZSEY,Unknown,
+GBCI,Financial Services,"Glacier Bancorp, Inc."
+ANTM,Unknown,
+IAA,Unknown,
+KMI.W,Unknown,
+FTNT,Technology,"Fortinet, Inc."
+CVNA,Consumer Cyclical,Carvana Co.
+GFS,Technology,GlobalFoundries Inc.
+OLLI,Consumer Defensive,Ollie's Bargain Outlet Holdings
+BBH,Unknown,VanEck Biotech ETF
+PBCT,Unknown,
+ENLC,Unknown,
+FANUF,Industrials,Fanuc Corporation
+DAIUF,Industrials,DAIFUKU CO LTD
+TRNO,Real Estate,Terreno Realty Corporation
+KAI,Industrials,Kadant Inc
+PI,Technology,"Impinj, Inc."
+CGNX,Technology,Cognex Corporation
+NTLA,Healthcare,"Intellia Therapeutics, Inc."
+LVMHF,Consumer Cyclical,LVMH-Moet Hennessy Louis Vuitto
+IAU,Unknown,iShares Gold Trust Shares
+FNV,Basic Materials,Franco-Nevada Corporation
+PDM,Real Estate,"Piedmont Realty Trust, Inc."
+DISCA,Unknown,
+CLX,Consumer Defensive,Clorox Company (The)
+WBA,Unknown,
+LVS,Consumer Cyclical,Las Vegas Sands Corp.
+XYIGY,Basic Materials,Xinyi Glass Holdings Ltd.
+AM,Energy,Antero Midstream Corporation
+TRI,Industrials,Thomson Reuters Corp
+YUM,Consumer Cyclical,"Yum! Brands, Inc."
+SCHZ,Unknown,Schwab US Aggregate Bond ETF
+PSXP,Unknown,
+ICUI,Healthcare,"ICU Medical, Inc."
+NUVA,Unknown,
+PFFV,Unknown,Global X Variable Rate Preferre
+FE,Utilities,FirstEnergy Corp.
+VRP,Unknown,Invesco Variable Rate Preferred
+HXL,Industrials,Hexcel Corporation
+FPE,Unknown,First Trust Preferred Securitie
+FSP,Real Estate,Franklin Street Properties Corp
+BOOT,Consumer Cyclical,"Boot Barn Holdings, Inc."
+EFG,Unknown,iShares MSCI EAFE Growth ETF
+IEUR,Unknown,iShares Core MSCI Europe ETF
+FLGB,Unknown,Franklin FTSE
+SPHB,Unknown,Invesco S&P 500 High Beta ETF
+PBFX,Unknown,
+AXTE,Unknown,iShares MSCI ACWI ex US Telecom
+AXHE,Unknown,iShares MSCI ACWI ex US Healthc
+ILPT,Real Estate,Industrial Logistics Properties
+BEN,Financial Services,"Franklin Resources, Inc."
+BXMT,Real Estate,"Blackstone Mortgage Trust, Inc."
+HTZWW,Unknown,"Hertz Global Holdings, Inc Warrant"
+PATK,Consumer Cyclical,"Patrick Industries, Inc."
+OLP,Real Estate,"One Liberty Properties, Inc."
+OTIS,Industrials,Otis Worldwide Corporation
+DTM,Energy,"DT Midstream, Inc."
+KYN,Financial Services,Kayne Anderson MLP/Midstream In
+TDC,Technology,Teradata Corporation
+WES,Energy,"Western Midstream Partners, LP"
+PSQ,Unknown,ProShares Short QQQ
+ORMP,Healthcare,Oramed Pharmaceuticals Inc.
+GVA,Industrials,Granite Construction Incorporat
+PINS,Communication Services,"Pinterest, Inc."
+BF.B,Unknown,
+SRLP,Unknown,
+DCI,Industrials,"Donaldson Company, Inc."
+ZM,Technology,"Zoom Communications, Inc."
+SLB,Energy,SLB Limited
+FHLC,Unknown,Fidelity MSCI Health Care Index
+IS,Unknown,
+INFO,Unknown,Harbor PanAgora Dynamic Large C
+SPLK,Unknown,
+CSL,Industrials,Carlisle Companies Incorporated
+SCU,Unknown,
+QMCO,Technology,Quantum Corporation
+IXJ,Unknown,iShares Global Healthcare ETF
+SHLX,Unknown,
+IYZ,Unknown,iShares U.S. Telecommunications
+SPH,Utilities,"Suburban Propane Partners, L.P."
+ITCI,Unknown,
+MPLX,Energy,MPLX LP
+FVRR,Communication Services,Fiverr International Ltd.
+ITUB,Financial Services,Itau Unibanco Banco Holding SA
+NS,Unknown,
+ASXC,Unknown,
+RNGR,Energy,"Ranger Energy Services, Inc."
+WRK.V,Unknown,
+PENN,Consumer Cyclical,"PENN Entertainment, Inc."
+RXT,Technology,"Rackspace Technology, Inc."
+PAGS,Technology,PagSeguro Digital Ltd.
+IWN,Unknown,iShares Russell 2000 Value ETF
+MTX,Basic Materials,Minerals Technologies Inc.
+TRUP,Financial Services,"Trupanion, Inc."
+XRAY,Healthcare,DENTSPLY SIRONA Inc.
+BCPC,Basic Materials,Balchem Corporation
+SLVM,Basic Materials,Sylvamo Corporation
+KPLTW,Unknown,"Katapult Holdings, Inc."
+ORCC,Unknown,
+FDIS,Unknown,Fidelity MSCI Consumer Discreti
+FTEC,Unknown,Fidelity MSCI Information Techn
+TDOC,Healthcare,"Teladoc Health, Inc."
+FSK,Financial Services,FS KKR Capital Corp.
+HIPO,Financial Services,Hippo Holdings Inc.
+UN,Unknown,
+KYOCF,Industrials,Kyocera Corp.
+FPEI,Unknown,First Trust Institutional Prefe
+MITK,Technology,"Mitek Systems, Inc."
+A,Healthcare,"Agilent Technologies, Inc."
+VAIAF,Technology,Vaisala OY
+TNC,Industrials,Tennant Company
+FBND,Unknown,Fidelity Total Bond ETF
+INDB,Financial Services,Independent Bank Corp.
+MAIN,Financial Services,Main Street Capital Corporation
+LZ,Industrials,"LegalZoom.com, Inc."
+CAPL,Energy,CrossAmerica Partners LP
+EBS,Healthcare,Emergent BioSolutions Inc.
+HTLD,Industrials,"Heartland Express, Inc."
+FINX,Unknown,Global X FinTech ETF
+SRLN,Unknown,State Street Blackstone Senior 
+ENBL,Unknown,
+MSB,Basic Materials,Mesabi Trust
+BEP,Utilities,Brookfield Renewable Partners L
+DWAC,Unknown,
+BE,Industrials,Bloom Energy Corporation
+KPLT,Technology,"Katapult Holdings, Inc."
+CLNE,Energy,Clean Energy Fuels Corp.
+FMAT,Unknown,Fidelity MSCI Materials Index E
+CRWD,Technology,"CrowdStrike Holdings, Inc."
+DUKH,Unknown,Ocean Park High Income ETF
+DIAL,Unknown,Columbia Diversified Fixed Inco
+LRNZ,Unknown,"TrueShares Technology, AI & Dee"
+COMM,Technology,"CommScope Holding Company, Inc."
+MUB,Unknown,iShares National Muni Bond ETF
+GLP,Energy,Global Partners LP
+AAL,Industrials,"American Airlines Group, Inc."
+GPS,Unknown,
+OSW,Consumer Cyclical,OneSpaWorld Holdings Limited
+NWL,Consumer Defensive,Newell Brands Inc.
+CONE,Unknown,
+MDNDF,Consumer Cyclical,McDonalds Hldgs Co Japan Ltd.
+GCGMF,Unknown,
+LW,Consumer Defensive,"Lamb Weston Holdings, Inc."
+ENB,Energy,Enbridge Inc
+WWD,Industrials,"Woodward, Inc."
+GEL,Energy,"Genesis Energy, L.P."
+WLTW,Unknown,
+WCLD,Unknown,WisdomTree Cloud Computing Fund
+CRSP,Healthcare,CRISPR Therapeutics AG
+CIBR,Unknown,First Trust NASDAQ Cybersecurit
+MGM,Consumer Cyclical,MGM Resorts International
+PEJ,Unknown,Invesco Leisure and Entertainme
+AY,Unknown,
+RPM,Basic Materials,RPM International Inc.
+CCEP,Consumer Defensive,Coca-Cola Europacific Partners 
+AVYA,Unknown,
+RLGY,Unknown,
+GDDY,Technology,GoDaddy Inc.
+AMJ,Unknown,JPMorgan Chase Capital XVI JP M
+BLDP,Industrials,"Ballard Power Systems, Inc."
+PRGS,Technology,Progress Software Corporation
+PGX,Unknown,Invesco Preferred ETF
+CREE,Unknown,
+BWA,Consumer Cyclical,BorgWarner Inc.
+VSCO,Consumer Cyclical,Victorias Secret & Co.
+XLRE,Unknown,State Street Real Estate Select
+IBUY,Unknown,Amplify Online Retail ETF
+NVVE,Consumer Cyclical,Nuvve Holding Corp.
+CHWY,Consumer Cyclical,"Chewy, Inc."
+ESGC,Unknown,
+CNA,Financial Services,CNA Financial Corporation
+TRV,Financial Services,"The Travelers Companies, Inc."
+FDRR,Unknown,Fidelity Dividend ETF for Risin
+VIAC,Unknown,
+ROLL,Unknown,
+XPO,Industrials,"XPO, Inc."
+ORAN,Unknown,
+SAM,Consumer Defensive,"Boston Beer Company, Inc. (The)"
+QTS,Unknown,
+"MONTGOMERY, AL .2, SCHAUMBERG, IL .1",Unknown,
+ALXN,Unknown,
+LMND,Financial Services,"Lemonade, Inc."
+NLOK,Unknown,
+UAA,Consumer Cyclical,"Under Armour, Inc."
+LTD,Unknown,2401983
+AESE,Unknown,
+MRIN,Unknown,
+NVCR,Healthcare,NovoCure Limited
+CCL,Consumer Cyclical,Carnival Corporation
+AMZA,Unknown,InfraCap MLP ETF
+HNDL,Unknown,Strategy Shares Nasdaq 7HANDL I
+TOTZF,Energy,Total Energy Services Inc.
+ETV,Financial Services,Eaton Vance Corporation Eaton V
+CDK,Unknown,
+AQB,Consumer Defensive,"AquaBounty Technologies, Inc."
+TNL,Consumer Cyclical,Travel   Leisure Co.
+SITE,Industrials,"SiteOne Landscape Supply, Inc."
+MTDR,Energy,Matador Resources Company
+STOR,Unknown,
+BHI,Unknown,3295497
+LITE,Technology,Lumentum Holdings Inc.
+GME,Consumer Cyclical,GameStop Corporation
+LEA,Consumer Cyclical,Lear Corporation
+CCC,Technology,CCC Intelligent Solutions Holdi
+PLTR,Technology,Palantir Technologies Inc.
+AMRC,Industrials,"Ameresco, Inc."
+TTEK,Industrials,"Tetra Tech, Inc."
+DOV,Industrials,Dover Corporation
+ALYF,Unknown,
+STAY,Unknown,
+WLK,Basic Materials,Westlake Corporation
+VRSN,Technology,"VeriSign, Inc."
+CWH,Consumer Cyclical,"Camping World Holdings, Inc."
+PII,Consumer Cyclical,Polaris Inc.
+TER,Technology,"Teradyne, Inc."
+SF,Financial Services,Stifel Financial Corporation
+ATRC,Healthcare,"AtriCure, Inc."
+IPGP,Technology,IPG Photonics Corporation
+DOCU,Technology,"DocuSign, Inc."
+LEG,Consumer Cyclical,"Leggett & Platt, Incorporated"
+WSM,Consumer Cyclical,"Williams-Sonoma, Inc."
+TPCO,Unknown,
+DIN,Consumer Cyclical,"Dine Brands Global, Inc. Common"
+FMC,Basic Materials,FMC Corporation
+CHGG,Consumer Defensive,"Chegg, Inc."
+CELC,Healthcare,Celcuity Inc.
+BALY,Consumer Cyclical,Bally's Corporation
+SVC,Real Estate,Service Properties Trust - Shar
+FFG,Unknown,
+VVNT,Unknown,
+BRKS,Unknown,
+TLK,Communication Services,"PT Telekomunikasi Indonesia, Tb"
+AEIS,Industrials,"Advanced Energy Industries, Inc"
+BOWX,Unknown,
+NIO,Consumer Cyclical,NIO Inc.
+VMC,Basic Materials,Vulcan Materials Company (Holdi
+APPAD,Unknown,
+LDNXF,Financial Services,London Stock Exchange Group plc
+KTOS,Industrials,Kratos Defense & Security Solut
+AKAM,Technology,"Akamai Technologies, Inc."
+ICSH,Unknown,iShares Ultra Short Duration Bo
+HNST,Consumer Defensive,"The Honest Company, Inc."
+FLT,Unknown,
+FDN,Unknown,First Trust DJ Internet Index F
+HAE,Healthcare,Haemonetics Corporation
+LL,Unknown,
+PCRX,Healthcare,"Pacira BioSciences, Inc."
+TREE,Financial Services,"LendingTree, Inc."
+SABR,Technology,Sabre Corporation
+UA,Consumer Cyclical,"Under Armour, Inc."
+BRP,Unknown,
+GSS,Unknown,
+YTRA,Consumer Cyclical,"Yatra Online, Inc."
+GFN,Unknown,
+TGNA,Communication Services,TEGNA Inc
+GPRO,Technology,"GoPro, Inc."
+VAR,Unknown,
+BPMP,Unknown,
+SU,Energy,Suncor Energy  Inc.
+RHHBF,Healthcare,Roche Holding Ltd
+AMTX,Basic Materials,"Aemetis, Inc"
+VXX,Unknown,iPath Series B S&P 500 VIX Shor
+ORA,Utilities,"Ormat Technologies, Inc."
+OMCL,Healthcare,"Omnicell, Inc."
+CMLTU,Unknown,
+NYT,Communication Services,New York Times Company (The)
+CENT,Consumer Defensive,Central Garden & Pet Company
+HOFV,Communication Services,Hall of Fame Resort & Entertain
+ETWO.W,Unknown,
+SHAK,Consumer Cyclical,"Shake Shack, Inc."
+QCRH,Financial Services,"QCR Holdings, Inc."
+HRTX,Healthcare,"Heron Therapeutics, Inc."
+FUND,Financial Services,"Sprott Focus Trust, Inc. - Clos"
+GTN,Communication Services,"Gray Media, Inc."
+CACI,Technology,"CACI International, Inc."
+MCS,Communication Services,Marcus Corporation (The)
+GDRX,Healthcare,"GoodRx Holdings, Inc."
+NI,Utilities,NiSource Inc
+BJ,Consumer Defensive,"BJ's Wholesale Club Holdings, I"
+ARMK,Industrials,Aramark
+ACST,Unknown,
+CTRM,Industrials,Castor Maritime Inc.
+ESTC,Technology,Elastic N.V.
+RDS.A,Unknown,
+BKEP,Unknown,
+ROG,Technology,Rogers Corporation
+HCRB,Unknown,Hartford Core Bond ETF
+CMLFU,Unknown,
+POOL,Industrials,Pool Corporation
+VOX,Unknown,Vanguard Communication Services
+O,Real Estate,Realty Income Corporation
+VRM,Financial Services,"Vroom, Inc."
+NCLH,Consumer Cyclical,Norwegian Cruise Line Holdings 
+FIVN,Technology,"Five9, Inc."
+SLAB,Technology,"Silicon Laboratories, Inc."
+PFPT,Unknown,
+BKR,Energy,Baker Hughes Company
+VIVO,Unknown,
+AB,Financial Services,AllianceBernstein Holding L.P.
+OSUR,Healthcare,"OraSure Technologies, Inc."
+WSC,Industrials,WillScot Holdings Corporation
+GPC,Consumer Cyclical,Genuine Parts Company
+APHA,Unknown,
+LUKOY,Unknown,
+FUPBY,Basic Materials,FUCHS SE
+BL,Technology,"BlackLine, Inc."
+CNI,Industrials,Canadian National Railway Compa
+ERJ,Unknown,
+RDS.B,Unknown,
+ABEV,Consumer Defensive,Ambev S.A.
+CLGX,Unknown,
+RMD,Healthcare,ResMed Inc.
+AOSL,Technology,Alpha and Omega Semiconductor L
+HRC,Unknown,
+NTAP,Technology,"NetApp, Inc."
+AL,Industrials,Air Lease Corporation
+MCHP,Technology,Microchip Technology Incorporat
+ST,Technology,Sensata Technologies Holding pl
+EHC,Healthcare,Encompass Health Corporation
+CMS,Utilities,CMS Energy Corporation
+SOLO,Unknown,
+SC,Unknown,
+WU,Financial Services,Western Union Company (The)
+LYB,Basic Materials,LyondellBasell Industries NV
+XEC,Unknown,
+ATH,Unknown,
+UNVR,Unknown,
+HSIC,Healthcare,"Henry Schein, Inc."
+WYND,Unknown,
+OMF,Financial Services,"OneMain Holdings, Inc."
+OKTA,Technology,"Okta, Inc."
+LYFT,Technology,"Lyft, Inc."
+DXC,Technology,DXC Technology Company
+IPWR,Technology,Ideal Power Inc.
+IDXX,Healthcare,"IDEXX Laboratories, Inc."
+ZG,Communication Services,"Zillow Group, Inc."
+GLPI,Real Estate,"Gaming and Leisure Properties, "
+TOL,Consumer Cyclical,"Toll Brothers, Inc."
+WH,Consumer Cyclical,"Wyndham Hotels & Resorts, Inc."
+SEE,Consumer Cyclical,Sealed Air Corporation
+ARNA,Unknown,
+CRON,Healthcare,Cronos Group Inc. Common Share
+GRUB,Unknown,
+ACB,Healthcare,Aurora Cannabis Inc.
+CGC,Healthcare,Canopy Growth Corporation
+AAIGF,Financial Services,"AIA Group, Ltd."
+MJNA,Healthcare,"Medical Marijuana, Inc."
+YETI,Consumer Cyclical,"YETI Holdings, Inc."
+DOMO,Technology,"Domo, Inc."
+QUMU,Unknown,
+HUM,Healthcare,Humana Inc.
+WEC,Utilities,"WEC Energy Group, Inc."
+DMTK,Unknown,
+DDD,Technology,3D Systems Corporation
+PPC,Consumer Defensive,Pilgrim's Pride Corporation
+FSLY,Technology,"Fastly, Inc."
+JIH,Unknown,
+LEE,Communication Services,"Lee Enterprises, Incorporated"
+NYMX,Unknown,
+SJM,Consumer Defensive,The J.M. Smucker Company
+DKNG,Consumer Cyclical,DraftKings Inc.
+GBDC,Financial Services,"Golub Capital BDC, Inc."
+DAN,Consumer Cyclical,Dana Incorporated
+JETS,Unknown,U.S. Global Jets ETF
+PCPL,Unknown,
+AUY,Unknown,
+TKC,Communication Services,Turkcell Iletisim Hizmetleri AS
+MLYNF,Financial Services,MALAYAN BANKING BERHAD
+TSCDF,Consumer Defensive,Tesco PLC
+NCMGF,Unknown,
+JGCCF,Industrials,JGC HOLDINGS CORPORATION
+VIV.V,Unknown,
+EQNR,Energy,Equinor ASA
+WOLWF,Consumer Defensive,Woolworths Group Limited
+OGFGF,Utilities,Origin Energy Ltd.
+MJDLF,Basic Materials,Major Drilling Group Internatio
+PDS,Energy,Precision Drilling Corporation
+CEMCF,Unknown,
+WAIR,Unknown,
+CIG,Utilities,Comp En De Mn Cemig
+FSKR,Unknown,
+VIV,Communication Services,Telefonica Brasil S.A.
+AIO,Financial Services,AllianzGI Artificial Intelligen
+ACGL,Financial Services,Arch Capital Group Ltd.
+TIF,Unknown,
+LI,Consumer Cyclical,Li Auto Inc.
+CHNG,Unknown,
+CNF,Financial Services,CNFinance Holdings Limited
+FLIR,Unknown,
+PCPL.U,Unknown,
+QQXT,Unknown,First Trust NASDAQ-100 Ex-Techn
+XLB,Unknown,State Street Materials Select S
+ARW,Technology,"Arrow Electronics, Inc."
+SRNE,Healthcare,"Sorrento Therapeutics, Inc."
+LB,Energy,LandBridge Company LLC
+ASMB,Healthcare,"Assembly Biosciences, Inc."
+XLF,Unknown,State Street Financial Select S
+RETA,Unknown,
+EDU,Consumer Defensive,New Oriental Education & Techno
+HII,Industrials,"Huntington Ingalls Industries, "
+PSTH,Unknown,
+HDS,Unknown,
+FTDR,Consumer Cyclical,"frontdoor, inc."
+NGLS,Unknown,
+NBIX,Healthcare,"Neurocrine Biosciences, Inc."
+CHL,Unknown,
+CTXS,Unknown,
+ARNC,Unknown,
+VSAT,Technology,"ViaSat, Inc."
+CATM,Unknown,
+RAD,Unknown,
+PRAH,Unknown,
+SNE,Unknown,
+LH,Healthcare,Labcorp Holdings Inc.
+WW,Healthcare,"WW International, Inc."
+DNKN,Unknown,
+THR,Industrials,"Thermon Group Holdings, Inc."
+NVGS,Energy,Navigator Holdings Ltd.
+ZUO,Unknown,
+BLUE,Unknown,
+VIG,Unknown,Vanguard Div Appreciation ETF
+GSLC,Unknown,Goldman Sachs ActiveBeta U.S. L
+CEQP,Unknown,
+WORK,Unknown,
+ZBRA,Technology,Zebra Technologies Corporation
+LAND,Real Estate,Gladstone Land Corporation
+BGG,Unknown,
+CCMP,Unknown,
+YEXT,Technology,"Yext, Inc."
+WIX,Technology,Wix.com Ltd.
+GMLP,Unknown,
+FVD,Unknown,First Trust VL Dividend
+SWN,Unknown,
+BRKR,Healthcare,Bruker Corporation
+CTRCF,Unknown,
+PASO,Healthcare,PATIENT ACCESS SOLUTIONS INC
+VRTU,Unknown,
+RBCAA,Financial Services,"Republic Bancorp, Inc."
+PSIX,Industrials,"Power Solutions International, "
+FISI,Financial Services,"Financial Institutions, Inc."
+BIP,Utilities,Brookfield Infrastructure Partn
+IPHI,Unknown,
+FUBO,Communication Services,fuboTV Inc.
+OIH,Unknown,VanEck Oil Services ETF
+SMLP,Unknown,
+DBX,Technology,"Dropbox, Inc."
+SDXAY,Industrials,Sodexo
+ANZBY,Unknown,
+HLDCY,Real Estate,"Henderson Land Development Co.,"
+AGESY,Financial Services,ageas SA/NV
+NTXFY,Unknown,
+AER,Industrials,AerCap Holdings N.V.
+BASFY,Basic Materials,BASF SE
+FUJHY,Consumer Cyclical,Subaru Corporation
+WOPEY,Unknown,
+TLSYY,Unknown,
+CSLT,Unknown,
+TOT,Unknown,LionShares U.S. Equity Total Re
+MFGP,Unknown,
+MRWSY,Unknown,
+TEVA,Healthcare,Teva Pharmaceutical Industries 
+GLPEY,Energy,"Galp Energia, SA"
+VOPKY,Energy,Koninklijke Vopak NV
+WBK,Unknown,
+ATASY,Unknown,
+CAJ,Unknown,
+SSUMY,Industrials,Sumitomo Corp.
+HSNGY,Unknown,Hang Seng Bank Ltd.
+MLCO,Consumer Cyclical,Melco Resorts & Entertainment L
+KPELY,Industrials,Keppel Corporation Limited
+DLAKY,Industrials,Deutsche Lufthansa AG
+FINMY,Industrials,Leonardo S.P.A.
+OMVKY,Energy,OMV AG
+POAHY,Consumer Cyclical,Porsche Automobile Holding SE
+RYCEY,Industrials,Rolls Royce Holdings plc
+REPYY,Energy,Repsol S.A.
+IX,Financial Services,ORIX Corporation
+CUK,Consumer Cyclical,Carnival Plc
+ACSAY,Industrials,ACS Actividades De Construccion
+HLPPY,Real Estate,Hang Lung Properties Ltd.
+EJPRY,Industrials,East Japan Railway Co.
+TLSNY,Communication Services,Telia Company AB
+NTOIY,Energy,Neste OYJ
+E,Energy,ENI S.p.A.
+CNS,Financial Services,Cohen & Steers Inc
+MITSY,Industrials,"Mitsui & Co., Ltd."
+TS,Energy,Tenaris S.A.
+IPXHY,Energy,Inpex Corp.
+HRI,Industrials,Herc Holdings Inc.
+MPLN,Unknown,
+GLOP,Unknown,
+CVI,Energy,CVR Energy Inc.
+MMLP,Energy,Martin Midstream Partners L.P.
+SH,Unknown,ProShares Short S&P500
+AMN,Healthcare,AMN Healthcare Services Inc
+VAW,Unknown,Vanguard Materials ETF
+SKX,Unknown,
+BEEM,Technology,Beam Global
+GWPH,Unknown,
+ACM,Industrials,AECOM
+XLNX,Unknown,
+RCI,Communication Services,"Rogers Communication, Inc."
+APEN,Unknown,
+SDOG,Unknown,ALPS Sector Dividend Dogs ETF
+PPBI,Unknown,
+GWRE,Technology,"Guidewire Software, Inc."
+CSIQ,Technology,Canadian Solar Inc.
+PRLB,Industrials,"Proto Labs, Inc."
+LGND,Healthcare,Ligand Pharmaceuticals Incorpor
+NBLX,Unknown,
+OLED,Technology,Universal Display Corporation
+PRAA,Financial Services,"PRA Group, Inc."
+FLCB,Unknown,Franklin U.S. Core Bond ETF
+SPTM,Unknown,State Street SPDR Portfolio S&P
+FLCO,Unknown,Franklin Investment Grade Corpo
+EBSB,Unknown,
+CATY,Financial Services,Cathay General Bancorp
+GOVT,Unknown,iShares U.S. Treasury Bond ETF
+VDC,Unknown,Vanguard Consumer Staples ETF
+FLQL,Unknown,Franklin U.S. Large Cap Multifa
+CRY,Unknown,
+PRA,Financial Services,ProAssurance Corporation
+NEOG,Healthcare,Neogen Corporation
+WSTL,Technology,"Westell Technologies, Inc."
+PEGA,Technology,Pegasystems Inc.
+TECH,Healthcare,Bio-Techne Corp
+ANSS,Unknown,
+ROL,Consumer Cyclical,"Rollins, Inc."
+LII,Industrials,"Lennox International, Inc."
+AMED,Unknown,
+CMLF,Unknown,
+USMV,Unknown,iShares MSCI USA Min Vol Factor
+ESGU,Unknown,iShares ESG Aware MSCI USA ETF
+VTI,Unknown,Vanguard Total Stock Market ETF
+IEFA,Unknown,iShares Core MSCI EAFE ETF
+PUTW,Unknown,WisdomTree PutWrite Strategy Fu
+IDV,Unknown,iShares International Select Di
+VLUE,Unknown,iShares MSCI USA Value Factor E
+IHI,Unknown,iShares U.S. Medical Devices ET
+DSU,Financial Services,"Blackrock Debt Strategies Fund,"
+XSOE,Unknown,WisdomTree Emerging Markets Ex-
+DIV,Unknown,Global X Super Dividend ETF
+EVV,Financial Services,316100
+BTZ,Financial Services,BlackRock Credit Allocation Inc
+YNDX,Unknown,
+CDAY,Unknown,
+NBL,Unknown,
+AMTD,Financial Services,AMTD IDEA Group
+WKHS,Consumer Cyclical,"Workhorse Group, Inc."
+ETFC,Unknown,
+BREW,Unknown,
+PBF,Energy,PBF Energy Inc.
+WPX,Unknown,
+LEVI,Consumer Cyclical,Levi Strauss & Co
+AVLR,Unknown,
+PKI,Unknown,
+SVCBY,Unknown,
+ENR,Industrials,"Energizer Holdings, Inc."
+RHI,Industrials,Robert Half Inc.
+CHUY,Unknown,
+DRQ,Unknown,
+POST,Consumer Defensive,"Post Holdings, Inc."
+FHB,Financial Services,"First Hawaiian, Inc."
+TGTX,Healthcare,"TG Therapeutics, Inc."
+SNX,Technology,TD SYNNEX Corporation
+BAND,Technology,Bandwidth Inc.
+USMC,Unknown,Principal U.S. Mega-Cap ETF
+INO,Healthcare,"Inovio Pharmaceuticals, Inc."
+ANY,Financial Services,Sphere 3D Corp.
+EBAY,Consumer Cyclical,eBay Inc.
+POWI,Technology,"Power Integrations, Inc."
+BATRA,Communication Services,"Atlanta Braves Holdings, Inc. -"
+BHC,Healthcare,Bausch Health Companies Inc.
+CCXX,Unknown,
+FTA,Unknown,First Trust Large Cap Value Alp
+RUSHA,Consumer Cyclical,"Rush Enterprises, Inc."
+MYE,Consumer Cyclical,"Myers Industries, Inc."
+DOX,Technology,Amdocs Limited
+SKVKY,Unknown,
+KMPR,Financial Services,Kemper Corporation
+CWB,Unknown,State Street SPDR Bloomberg Con
+WDC,Technology,Western Digital Corporation
+SDY,Unknown,State Street SPDR S&P Dividend 
+BGFV,Unknown,
+DCP,Unknown,
+RAND,Financial Services,Rand Capital Corporation
+HFC,Unknown,
+ZI,Unknown,
+PGNY,Healthcare,"Progyny, Inc."
+WDFC,Basic Materials,WD-40 Company
+NWE,Utilities,"NorthWestern Energy Group, Inc."
+CBRE,Real Estate,CBRE Group Inc
+IAC,Communication Services,IAC Inc.
+GLW,Technology,Corning Incorporated
+BECN,Unknown,
+SYPR,Consumer Cyclical,"Sypris Solutions, Inc."
+SPKE,Unknown,
+BIPC,Utilities,Brookfield Infrastructure Corpo
+RXN,Unknown,
+PROF,Healthcare,Profound Medical Corp.
+HUYA,Communication Services,HUYA Inc.
+TMUSR,Unknown,
+MSBHY,Unknown,
+NMIH,Financial Services,NMI Holdings Inc
+TCOM,Consumer Cyclical,Trip.com Group Limited
+DUSA,Unknown,Davis Select U.S. Equity ETF
+VSLR,Unknown,
+GGT,Financial Services,"Gabelli Multi-Media Trust, Inc."
+NUAN,Unknown,
+ACIW,Technology,"ACI Worldwide, Inc."
+SFST,Financial Services,"Southern First Bancshares, Inc."
+CXW,Industrials,"CoreCivic, Inc."
+WK,Technology,Workiva Inc.
+LTHM,Unknown,
+BLFSD,Unknown,
+LEN,Consumer Cyclical,Lennar Corporation
+LEN.B,Unknown,
+KIDS,Healthcare,OrthoPediatrics Corp.
+BDC,Technology,Belden Inc
+RHP,Real Estate,"Ryman Hospitality Properties, I"
+STWD,Real Estate,"STARWOOD PROPERTY TRUST, INC. S"
+TFFP,Unknown,
+INFR,Unknown,ClearBridge Sustainable Infrast
+ISD,Financial Services,PGIM Short Duration High Yield 
+EFV,Unknown,iShares MSCI EAFE Value ETF
+VV,Unknown,Vanguard Large-Cap ETF
+KBE,Unknown,State Street SPDR S&P Bank ETF
+REYN,Consumer Cyclical,Reynolds Consumer Products Inc.
+NVIGF,Unknown,
+BDN,Real Estate,Brandywine Realty Trust
+FEYE,Unknown,
+SKYY,Unknown,First Trust Cloud Computing ETF
+PSNL,Healthcare,"Personalis, Inc."
+SPSC,Technology,"SPS Commerce, Inc."
+ETP,Unknown,140492
+ITOT,Unknown,iShares Core S&P Total U.S. Sto
+AGN,Unknown,
+ADS,Unknown,
+IVZ,Financial Services,Invesco Ltd
+FLS,Industrials,Flowserve Corporation
+FLXN,Unknown,Horizon Flexible Income ETF
+CMD,Unknown,
+EVH,Healthcare,"Evolent Health, Inc"
+FNMA,Financial Services,Fannie Mae
+IBKR,Financial Services,"Interactive Brokers Group, Inc."
+MORN,Financial Services,"Morningstar, Inc."
+SERV,Industrials,Serve Robotics Inc.
+ONTO,Technology,Onto Innovation Inc.
+HCSG,Healthcare,"Healthcare Services Group, Inc."
+HOG,Consumer Cyclical,"Harley-Davidson, Inc."
+HRB,Consumer Cyclical,"H&R Block, Inc."
+CTL,Unknown,
+NWS,Communication Services,News Corporation
+NWSA,Communication Services,News Corporation
+AYI,Industrials,Acuity Inc.
+LBDAV,Unknown,Liberty Broadband Corporation
+GLIBA,Communication Services,"GCI Liberty, Inc. - Series A GC"
+ASGN,Technology,ASGN Incorporated
+POEFF,Unknown,
+DEACU,Unknown,
+PS,Unknown,
+RQI,Financial Services,Cohen & Steers Quality Income R
+SSL,Basic Materials,Sasol Ltd.
+UPLD,Technology,"Upland Software, Inc."
+HAYN,Unknown,
+MTSC,Unknown,
+AIMC,Unknown,
+UTX,Unknown,
+NXST,Communication Services,"Nexstar Media Group, Inc."
+DISCK,Unknown,
+PFG,Financial Services,Principal Financial Group Inc
+M,Consumer Cyclical,Macy's Inc
+ZION,Financial Services,Zions Bancorporation N.A.
+AMG,Financial Services,"Affiliated Managers Group, Inc."
+HCN,Unknown,211164
+KSS,Consumer Cyclical,Kohl's Corporation
+JWN,Unknown,
+GLOB,Technology,Globant S.A.
+EXLS,Technology,"ExlService Holdings, Inc."
+DSGX,Technology,The Descartes Systems Group Inc
+UNF,Industrials,Unifirst Corporation
+IDA,Utilities,"IDACORP, Inc."
+AIR,Industrials,AAR Corp.
+DIA,Unknown,SPDR Dow Jones Industrial Avera
+VONE,Unknown,Vanguard Russell 1000 ETF
+FEI,Unknown,
+RF,Financial Services,Regions Financial Corporation
+HTZ,Industrials,"Hertz Global Holdings, Inc"
+PLYA,Unknown,
+CIM,Real Estate,Chimera Investment Corporation
+GOOS,Consumer Cyclical,Canada Goose Holdings Inc. Subo
+IAT,Unknown,iShares U.S. Regional Banks ETF
+FRT,Real Estate,Federal Realty Investment Trust
+QGEN,Healthcare,Qiagen N.V.
+HTA,Unknown,
+BYD,Consumer Cyclical,Boyd Gaming Corporation
+AAN,Unknown,
+AVT,Technology,"Avnet, Inc."
+CEMI,Unknown,
+TLND,Unknown,
+SZEVY,Unknown,
+CRRFY,Consumer Defensive,Carrefour S.A.
+RNLSY,Consumer Cyclical,Renault SA
+BG,Consumer Defensive,Bunge Limited
+RDEIY,Utilities,Redeia Corporacion SA
+GEAGY,Unknown,
+VPU,Unknown,Vanguard Utilities ETF
+PCRFY,Unknown,
+VC,Consumer Cyclical,Visteon Corporation
+PVH,Consumer Cyclical,PVH Corp.
+DSDVY,Industrials,DSV A S
+HNNMY,Consumer Cyclical,Hennes & Mauritz AB
+COTY,Consumer Defensive,Coty Inc.
+HLUYY,Unknown,
+NATI,Unknown,
+RWEOY,Utilities,RWE AG
+PDYPY,Unknown,
+CCLAY,Unknown,
+SWGAY,Consumer Cyclical,Swatch Group AG
+WCAGY,Unknown,
+ENGGY,Utilities,Enagas S.A.
+CPRI,Consumer Cyclical,Capri Holdings Limited
+NTRS,Financial Services,Northern Trust Corporation
+RBS,Unknown,
+STE,Healthcare,STERIS plc (Ireland)
+JBAXY,Financial Services,Julius Baer Group Ltd.
+HPE,Technology,Hewlett Packard Enterprise Comp
+SWMAY,Unknown,
+UHS,Healthcare,"Universal Health Services, Inc."
+PRGO,Healthcare,Perrigo Company plc
+SNP,Unknown,
+AVNS,Healthcare,"Avanos Medical, Inc."
+QSR,Consumer Cyclical,Restaurant Brands International
+MHK,Consumer Cyclical,"Mohawk Industries, Inc."
+NVEE,Unknown,
+MEOH,Basic Materials,Methanex Corporation
+JMP,Unknown,
+JBT,Unknown,
+BIF,Unknown,
+EGHT,Technology,8x8 Inc
+RP,Unknown,
+KTB,Consumer Cyclical,"Kontoor Brands, Inc."
+ENS,Industrials,EnerSys
+ANIK,Healthcare,Anika Therapeutics Inc.
+NEWR,Unknown,
+FOXA,Communication Services,Fox Corporation
+BBBY,Unknown,"Bed Bath & Beyond, Inc."
+FTSM,Unknown,First Trust Enhanced Short Matu
+FDL,Unknown,First Trust Morningstar ETF
+COO,Healthcare,"The Cooper Companies, Inc."
+MTN,Consumer Cyclical,"Vail Resorts, Inc."
+ENV,Unknown,
+CYBR,Technology,CyberArk Software Ltd.
+INMD,Healthcare,InMode Ltd.
+CNK,Communication Services,Cinemark Holdings Inc Cinemark 
+NULG,Unknown,Nuveen ESG Large-Cap Growth ETF
+SPYG,Unknown,State Street SPDR Portfolio S&P
+IGV,Unknown,iShares Expanded Tech-Software 
+FDS,Financial Services,FactSet Research Systems Inc.
+SEIC,Financial Services,SEI Investments Company
+CFR,Financial Services,"Cullen/Frost Bankers, Inc."
+HZN,Unknown,
+QSY,Unknown,WisdomTree U.S. Quality Shareho
+DENN,Consumer Cyclical,Denny's Corporation
+VWDRY,Industrials,Vestas Wind Systems A/S
+KRNT,Industrials,Kornit Digital Ltd.
+PRSP,Unknown,
+CSQ,Financial Services,Calamos Strategic Total Return 
+NTR,Basic Materials,Nutrien Ltd.
+SNNUF,Healthcare,Smith & Nephew PLC
+CHRW,Industrials,"C.H. Robinson Worldwide, Inc."
+TCO,Unknown,
+WMGI,Unknown,
+POL,Unknown,
+SNA,Industrials,Snap-On Incorporated
+TRGP,Energy,"Targa Resources, Inc."
+FRFHF,Financial Services,Fairfax Financial Holdings Ltd.
+GSAH,Unknown,
+WCG,Unknown,
+SANM,Technology,Sanmina Corporation
+LPT,Unknown,
+AROW,Financial Services,Arrow Financial Corporation
+GRA,Unknown,
+FMCMF,Unknown,
+CENTA,Consumer Defensive,Central Garden & Pet Company
+MSM,Industrials,"MSC Industrial Direct Company, "
+GCP,Unknown,
+INST,Unknown,
+XRT,Unknown,State Street SPDR S&P Retail ET
+ADTN,Technology,"ADTRAN Holdings, Inc."
+IVE,Unknown,iShares S&P 500 Value ETF
+BYND,Consumer Defensive,"Beyond Meat, Inc."
+IHS,Real Estate,IHS Holding Limited
+TSS,Unknown,
+FBSI,Financial Services,"First Bancshares, Inc."
+SPN,Unknown,
+TRP,Energy,TC Energy Corporation
+MTD,Healthcare,"Mettler-Toledo International, I"
+EXPO,Industrials,"Exponent, Inc."
+HACK,Unknown,Amplify Cybersecurity ETF
+QUAD,Industrials,"Quad Graphics, Inc"
+ERH,Financial Services,40135
+CWST,Industrials,"Casella Waste Systems, Inc."
+NLSN,Unknown,
+CBS,Unknown,
+VIAB,Unknown,
+MYL,Unknown,
+CMPR,Industrials,Cimpress PLC
+CBT,Basic Materials,Cabot Corporation
+CLNC,Unknown,
+NPSNY,Consumer Cyclical,Naspers Ltd.
+GCI,Unknown,
+CELG,Unknown,
+DDAIF,Unknown,
+ECA,Unknown,
+FND,Consumer Cyclical,"Floor & Decor Holdings, Inc."
+TRHC,Unknown,
+PNFP,Financial Services,"Pinnacle Financial Partners, In"
+CLB,Energy,Core Laboratories Inc.
+RGNX,Healthcare,REGENXBIO Inc.
+AYR,Unknown,
+CLS,Technology,"Celestica, Inc."
+IBKC,Unknown,
+IIVI,Unknown,
+FOX,Communication Services,Fox Corporation
+SIX,Unknown,
+CAE,Industrials,CAE Inc.
+MN,Unknown,
+CBM,Unknown,
+OCLCF,Technology,Oracle Corp.
+ZEN,Unknown,
+MD,Healthcare,"Pediatrix Medical Group, Inc."
+TWOU,Unknown,
+MDRX,Healthcare,Veradigm Inc.
+MIDD,Industrials,The Middleby Corporation
+TYL,Technology,"Tyler Technologies, Inc."
+ERI,Unknown,
+RYAOF,Industrials,RYANAIR HOLDINGS PLC
+IRBT,Unknown,
+LM,Unknown,
+PRO,Unknown,
+UPMKY,Unknown,
+ATR,Healthcare,"AptarGroup, Inc."
+LNN,Industrials,Lindsay Corporation
+CBL,Real Estate,"CBL & Associates Properties, In"
+GFSZY,Unknown,
+DIFTY,Real Estate,Daito Trust Construction Co.
+CLNY,Unknown,
+PBSFY,Communication Services,ProSiebenSat.1 Media SE
+JMHLY,Industrials,Jardine Matheson Holdings Ltd.
+HENOY,Consumer Defensive,Henkel AG & Co. KGAA
+BZLFY,Consumer Defensive,Bunzl plc
+BRY,Unknown,
+SEMG,Unknown,Suncoast Select Growth ETF
+SNH,Unknown,
+ETM,Unknown,
+DNSKY,Unknown,
+TVTY,Unknown,
+RCKY,Consumer Cyclical,"Rocky Brands, Inc."
+CARS,Communication Services,Cars.com Inc.
+UCON,Unknown,First Trust Smith Unconstrained
+APC,Energy,ARKO Petroleum Corp.
+JEC,Unknown,
+MDSO,Unknown,
+AJRD,Unknown,
+VST,Utilities,Vistra Corp.
+TUP,Unknown,
+MSTR,Technology,Strategy Inc
+MGP,Unknown,
+COT,Unknown,
+KAR,Consumer Cyclical,"OPENLANE, Inc."
+PLAY,Communication Services,"Dave & Buster's Entertainment, "
+NEU,Basic Materials,NewMarket Corp
+APT,Industrials,"Alpha Pro Tech, Ltd."
+APNHY,Healthcare,Aspen Pharmacare Holdings plc
+PDCE,Unknown,
+MINI,Unknown,
+IJH,Unknown,iShares Core S&P Mid-Cap ETF
+BMO,Financial Services,Bank Of Montreal
+ALRM,Technology,"Alarm.com Holdings, Inc."
+TCBI,Financial Services,"Texas Capital Bancshares, Inc."
+RHT,Unknown,
+BAMXY,Unknown,
+STI,Industrials,"Solidion Technology, Inc."
+HUB.A,Unknown,
+WAGE,Unknown,
+TMK,Unknown,
+RDUS,Unknown,
+ARI,Real Estate,Apollo Commercial Real Estate F
+SRC,Unknown,
+WING,Consumer Cyclical,Wingstop Inc.
+APVO,Healthcare,Aptevo Therapeutics Inc.
+MED,Consumer Cyclical,MEDIFAST INC
+HIW,Real Estate,"Highwoods Properties, Inc."
+FII,Unknown,
+IRTC,Healthcare,"iRhythm Holdings, Inc."
+CHH,Consumer Cyclical,"Choice Hotels International, In"
+ADUS,Healthcare,Addus HomeCare Corporation
+CCOI,Communication Services,"Cogent Communications Holdings,"
+HL,Basic Materials,Hecla Mining Company
+HCP,Unknown,
+PLCE,Consumer Cyclical,"Children's Place, Inc. (The)"
+AXGN,Healthcare,"AxoGen, Inc."
+COR,Healthcare,"Cencora, Inc."
+G,Technology,Genpact Limited
+AMBA,Technology,"Ambarella, Inc."
+PGRE,Unknown,
+WAFD,Financial Services,"WaFd, Inc."
+WTS,Industrials,"Watts Water Technologies, Inc."
+TRMK,Financial Services,Trustmark Corporation
+LANC,Unknown,Lancaster Colony Corporation
+PNW,Utilities,Pinnacle West Capital Corporati
+OXM,Consumer Cyclical,"Oxford Industries, Inc."
+APLE,Real Estate,"Apple Hospitality REIT, Inc."
+LLL,Unknown,
+CVLT,Technology,"Commvault Systems, Inc."
+FFIN,Financial Services,"First Financial Bankshares, Inc"
+COUP,Unknown,
+GBT,Unknown,
+CWEN,Utilities,"Clearway Energy, Inc."
+CXP,Unknown,
+TRMB,Technology,Trimble Inc.
+BOOM,Industrials,DMC Global Inc.
+SITC,Real Estate,SITE Centers Corp.
+UMPQ,Unknown,
+QRTEA,Unknown,
+CRUS,Technology,"Cirrus Logic, Inc."
+VRNS,Technology,"Varonis Systems, Inc."
+FBC,Unknown,
+EVOP,Unknown,
+BXS,Unknown,
+H,Consumer Cyclical,Hyatt Hotels Corporation
+DLB,Industrials,Dolby Laboratories
+MANH,Technology,"Manhattan Associates, Inc."
+REXR,Real Estate,"Rexford Industrial Realty, Inc."
+PB,Financial Services,"Prosperity Bancshares, Inc."
+EGBN,Financial Services,"Eagle Bancorp, Inc."
+BKU,Financial Services,"BankUnited, Inc."
+AIV,Real Estate,Apartment Investment and Manage
+CDE,Basic Materials,"Coeur Mining, Inc."
+FIBK,Financial Services,"First Interstate BancSystem, In"
+AWI,Industrials,Armstrong World Industries Inc
+DNOW,Industrials,DNOW Inc.
+LAUR,Consumer Defensive,"Laureate Education, Inc."
+SMGZY,Industrials,Smiths Group Plc
+BBT,Financial Services,Beacon Financial Corporation
+AZPN,Unknown,
+RL,Consumer Cyclical,Ralph Lauren Corporation
+EXEL,Healthcare,"Exelixis, Inc."
+TWO,Real Estate,Two Harbors Investment Corp
+ARR,Real Estate,"ARMOUR Residential REIT, Inc."
+MTH,Consumer Cyclical,Meritage Homes Corporation
+FDC,Unknown,
+MDXG,Healthcare,"MiMedx Group, Inc"
+WBC,Unknown,
+AMRX,Healthcare,"Amneal Pharmaceuticals, Inc."
+PDRDY,Unknown,
+RBGLY,Consumer Defensive,Reckitt Benckiser Group Plc.
+GMXAY,Unknown,
+KOSCF,Consumer Defensive,KOSE CORPORATION
+SMECF,Industrials,SMC Corp
+OOCP,Unknown,
+CABGY,Consumer Defensive,Carlsberg AS
+NJ,Unknown,7331
+RYDBF,Unknown,
+PKCOY,Industrials,PARK 24 CO LTD SPON ADR EACH RE
+KYCCF,Technology,Keyence Corp.
+IEMG,Unknown,iShares Core MSCI Emerging Mark
+CTRL,Unknown,
+ESGR,Unknown,
+JGCCY,Industrials,JGC Holdings Corporation
+DWDP,Unknown,
+PBYI,Healthcare,Puma Biotechnology Inc
+KMT,Industrials,Kennametal Inc.
+AMBR,Technology,Amber International Holding Lim
+TPX,Unknown,
+HPT,Unknown,
+EGY,Energy,"VAALCO Energy, Inc."
+CNDT,Technology,Conduent Incorporated
+DVA,Healthcare,DaVita Inc.
+ABC,Unknown,
+TDS,Communication Services,"Telephone and Data Systems, Inc"
+AES,Utilities,The AES Corporation
+XRX,Industrials,Xerox Holdings Corporation
+DMRC,Technology,Digimarc Corporation
+MGPI,Consumer Defensive,"MGP Ingredients, Inc."
+ABM,Industrials,ABM Industries Incorporated
+RDFN,Unknown,
+SCHN,Unknown,
+DBD,Technology,Diebold Nixdorf Incorporated
+UBNT,Unknown,
+WP,Unknown,
+ULTI,Unknown,REX IncomeMax Option Strategy E
+EAT,Consumer Cyclical,"Brinker International, Inc."
+ESNT,Financial Services,Essent Group Ltd.
+BIG,Unknown,
+VCRA,Unknown,
+LLDTF,Financial Services,Lloyds Banking Group plc
+ADSW,Unknown,
+UNCHF,Consumer Defensive,Unicharm Corp.
+NTDMF,Unknown,
+SFTBF,Communication Services,Softbank Group Corp
+WGO,Consumer Cyclical,"Winnebago Industries, Inc."
+VIOT,Consumer Cyclical,"Viomi Technology Co., Ltd"
+SWH,Unknown,257332
+PUMP,Energy,ProPetro Holding Corp.
+TMHC,Consumer Cyclical,Taylor Morrison Home Corporatio
+CCS,Real Estate,"Century Communities, Inc."
+WDR,Unknown,
+CRI,Consumer Cyclical,"Carter's, Inc."
+II,Unknown,
+SUP,Unknown,
+ELLI,Unknown,
+INGR,Consumer Defensive,Ingredion Incorporated
+BOKF,Financial Services,BOK Financial Corporation
+NDSN,Industrials,Nordson Corporation
+LCII,Consumer Cyclical,LCI Industries
+CHEUY,Unknown,
+VET,Energy,Vermilion Energy Inc.
+LFUS,Technology,"Littelfuse, Inc."
+DCM,Unknown,64123
+IEX,Industrials,IDEX Corporation
+JRVR,Financial Services,"James River Group Holdings, Inc"
+CM,Financial Services,Canadian Imperial Bank of Comme
+GOLF,Consumer Cyclical,Acushnet Holdings Corp.
+WASH,Financial Services,"Washington Trust Bancorp, Inc."
+BLX,Financial Services,Banco Latinoamericano de Comerc
+AIN,Consumer Cyclical,Albany International Corporatio
+AGO,Financial Services,Assured Guaranty Ltd.
+EGP,Real Estate,"EastGroup Properties, Inc."
+BGS,Consumer Defensive,"B&G Foods, Inc."
+GRMN,Technology,Garmin Ltd.
+BGCP,Unknown,
+PNM,Unknown,
+CNSL,Unknown,
+MAN,Industrials,ManpowerGroup
+MKSI,Technology,MKS Inc.
+HOPE,Financial Services,"Hope Bancorp, Inc."
+HNI,Consumer Cyclical,HNI Corporation
+FUL,Basic Materials,H. B. Fuller Company
+CNMD,Healthcare,CONMED Corporation
+ALE,Unknown,
+FTS,Utilities,Fortis Inc.
+HA,Unknown,
+DKS,Consumer Cyclical,Dick's Sporting Goods Inc
+ALV,Consumer Cyclical,"Autoliv, Inc."
+WGHPY,Unknown,
+OZK,Financial Services,Bank OZK
+NMRK,Real Estate,"Newmark Group, Inc."
+AHONY,Unknown,
+MSA,Industrials,MSA Safety Incorporated
+DK,Energy,"Delek US Holdings, Inc."
+JCOM,Unknown,
+LECO,Industrials,"Lincoln Electric Holdings, Inc."
+HRS,Unknown,
+EYE,Consumer Cyclical,"National Vision Holdings, Inc."
+PER,Unknown,
+UTGN,Financial Services,"UTG, Inc."
+RCII,Unknown,
+TFCFA,Unknown,
+DOOR,Unknown,
+OGE,Utilities,OGE Energy Corp
+GBX,Industrials,"Greenbrier Companies, Inc. (The"
+TFCF,Unknown,
+FF,Basic Materials,FutureFuel Corp.
+CTRP,Unknown,
+AIZ,Financial Services,"Assurant, Inc."
+XENT,Unknown,
+CTB,Unknown,
+UTHR,Healthcare,United Therapeutics Corporation
+BH,Consumer Cyclical,Biglari Holdings Inc.
+DPLO,Unknown,
+IBP,Consumer Cyclical,"Installed Building Products, In"
+GBOOY,Financial Services,"Grupo Financiero Banorte, S.A.B"
+DEA,Real Estate,"Easterly Government Properties,"
+EXG,Financial Services,Eaton Vance Tax-Managed Global 
+MSG,Unknown,
+CPRT,Industrials,"Copart, Inc."
+JJSF,Consumer Defensive,J & J Snack Foods Corp.
+APU,Unknown,
+CNXM,Unknown,
+CINR,Unknown,
+SPKEP,Unknown,
+HESM,Energy,Hess Midstream LP
+SAVE,Unknown,
+ORBK,Unknown,
+ATHN,Unknown,
+BFET,Unknown,BFE Corporation
+GCO,Consumer Cyclical,Genesco Inc.
+KNX,Industrials,Knight-Swift Transportation Hol
+PSB,Unknown,
+ESRX,Unknown,1072321
+UFS,Unknown,
+SCCO,Basic Materials,Southern Copper Corporation
+NAVI,Financial Services,Navient Corporation
+OPI,Unknown,
+SNHY,Unknown,
+CCT,Unknown,735
+THG,Financial Services,Hanover Insurance Group Inc
+IXP,Unknown,iShares Global Comm Services ET
+LABL,Unknown,
+AMSF,Financial Services,"AMERISAFE, Inc."
+BEL,Unknown,
+AOBC,Unknown,
+TCMD,Healthcare,"Tactile Systems Technology, Inc"
+TVPT,Unknown,Travelport Worldwide Limited
+EEFT,Technology,"Euronet Worldwide, Inc."
+WB,Communication Services,Weibo Corporation
+PETQ,Unknown,
+LLESY,Real Estate,Lendlease Corporation Limited
+VGT,Unknown,Vanguard Information Tech ETF
+MC,Financial Services,Moelis & Company
+CVGW,Consumer Defensive,"Calavo Growers, Inc."
+PEGI,Unknown,
+PCG,Utilities,Pacific Gas & Electric Co.
+ESL,Unknown,
+SONO,Technology,"Sonos, Inc."
+PTLA,Unknown,
+SCG,Unknown,348714
+VOE,Unknown,Vanguard Mid-Cap Value ETF
+VB,Unknown,Vanguard Small-Cap ETF
+ARAV,Unknown,
+BKCC,Unknown,
+MIC,Unknown,
+RA,Financial Services,Brookfield Real Assets Income F
+MZOR,Unknown,Mazor Robotics Ltd.
+FTAI,Industrials,FTAI Aviation Ltd.
+MMS,Industrials,"Maximus, Inc."
+VCR,Unknown,Vanguard Consumer Discretion ET
+VTV,Unknown,Vanguard Value ETF
+SEKEY,Technology,Seiko Epson Corp.
+MRT,Technology,"Marti Technologies, Inc."
+OFC,Unknown,
+SIR,Unknown,476080
+LN,Unknown,
+AMCRY,Unknown,
+CATO,Consumer Cyclical,Cato Corporation (The)
+CPYYY,Utilities,Centrica Plc
+ASOMY,Consumer Cyclical,ASOS plc
+IWF,Unknown,iShares Russell 1000 Growth Fun
+VLEEY,Consumer Cyclical,Valeo SE
+STAR,Unknown,
+SHPG,Unknown,Shire plc
+GOV,Unknown,228
+OMI,Healthcare,"Owens & Minor, Inc."
+INGIY,Unknown,
+AHT,Real Estate,Ashford Hospitality Trust Inc
+BHR,Real Estate,Braemar Hotels & Resorts Inc.
+FSNUY,Healthcare,Fresenius SE & Co. KGaA
+NRBAY,Unknown,Nordea Bank AB (publ)
+SMTA,Unknown,
+GNTX,Consumer Cyclical,Gentex Corporation
+ZAYO,Unknown,
+VLP,Unknown,Valero Energy Partners LP
+HR,Real Estate,Healthcare Realty Trust Incorpo
+PAGP,Energy,"Plains GP Holdings, L.P."
+SAFM,Unknown,
+XON,Unknown,
+WGP,Unknown,
+BBAVY,Unknown,
+SRCL,Unknown,"Stericycle, Inc."
+EQGP,Unknown,"EQGP Holdings, LP"
+IWO,Unknown,iShares Russell 2000 Growth Fun
+PKB,Unknown,Invesco Building & Construction
+PCY,Unknown,Invesco Emerging Markets Sovere
+JNK,Unknown,State Street SPDR Bloomberg Hig
+MT,Basic Materials,Arcelor Mittal NY Registry Shar
+BBL,Unknown,
+STLD,Basic Materials,"Steel Dynamics, Inc."
+ICAGY,Industrials,International Consolidated Airl
+EMB,Unknown,iShares J.P. Morgan USD Emergin
+SLQD,Unknown,iShares 0-5 Year Investment Gra
+EMLC,Unknown,VanEck J. P. Morgan EM Local Cu
+PGF,Unknown,Invesco Financial Preferred ETF
+AMGP,Unknown,
+DM,Unknown,
+EQM,Unknown,
+WBT,Unknown,
+BV,Industrials,"BrightView Holdings, Inc."
+AET,Unknown,2046029
+IEZ,Unknown,iShares U.S. Oil Equipment & Se
+BAMXF,Consumer Cyclical,Bayerische Motoren Werke AG
+INGN,Healthcare,"Inogen, Inc"
+TI,Unknown,
+AIVAF,Financial Services,Aviva Plc
+TKPYY,Unknown,Takeda Pharmaceutical Company Limited
+ASBFY,Consumer Defensive,Associated British Foods plc
+MTZPY,Unknown,
+ROYMY,Industrials,INTERNATIONAL DISTRIBUTION SVCS
+FPAFY,Consumer Defensive,First Pacific Company Ltd.
+CDR,Unknown,
+ITVPY,Communication Services,ITV Plc.
+STRNY,Utilities,Severn Trent PLC
+YAHOY,Consumer Cyclical,LY Corporation
+ACGPF,Unknown,
+HAIN,Consumer Defensive,"The Hain Celestial Group, Inc."
+SOMLY,Industrials,"Secom Co., Ltd."
+MLM,Basic Materials,"Martin Marietta Materials, Inc."
+CA,Unknown,Xtrackers California Municipal 
+NRZ,Unknown,
+LXFR,Industrials,Luxfer Holdings PLC
+PX,Financial Services,"P10, Inc."
+GTX,Consumer Cyclical,Garrett Motion Inc.
+PRI,Financial Services,"Primerica, Inc."
+SMAWF,Industrials,Siemens AG
+VSM,Unknown,
+LSTR,Industrials,"Landstar System, Inc."
+ABX,Financial Services,"Abacus Global Management, Inc."
+ETE,Unknown,"Energy Transfer Equity, L.P."
+DFIN,Technology,"Donnelley Financial Solutions, "
+KS,Unknown,KapStone Paper and Packaging Corporation
+RVI,Unknown,
+EVHC,Unknown,Envision Healthcare Corporation
+CBLK,Unknown,
+ONE SHARE FOR ONE SHARE,Unknown,
+CNQ,Energy,Canadian Natural Resources Limi
+CCJ,Energy,Cameco Corporation
+SHOO,Consumer Cyclical,"Steven Madden, Ltd."
+ASND,Healthcare,Ascendis Pharma A/S
+ENLK,Unknown,"EnLink Midstream Partners, LP"
+NVT,Industrials,nVent Electric plc
+MLPX,Unknown,Global X MLP & Energy Infrastru
+HOMB,Financial Services,"Home BancShares, Inc."
+EDR,Unknown,
+AN,Consumer Cyclical,"AutoNation, Inc."
+IDTI,Unknown,
+ANDX,Unknown,
+CCH,Unknown,
+JG,Technology,Aurora Mobile Limited
+SSMXF,Healthcare,Sysmex Corp.
+GPT,Unknown,Intelligent Alpha Atlas ETF
+KSU,Unknown,
+ROBO,Unknown,ROBO Global Robotics and Automa
+RPG,Unknown,Invesco S&P 500 Pure Growth ETF
+EMGF,Unknown,iShares Emerging Markets Equity
+FTI,Energy,TechnipFMC plc
+COTV,Unknown,"Cotiviti Holdings, Inc."
+OZM,Unknown,
+REGL,Unknown,ProShares S&P MidCap 400 Divide
+LOGM,Unknown,
+DLPH,Unknown,
+NYLD,Unknown,"Clearway Energy, Inc."
+VNQ,Unknown,Vanguard Real Estate ETF
+TIS,Unknown,
+NOKBF,Technology,Nokia Corp.
+GOOCV,Unknown,
+TANN,Unknown,TravelCenters of America LLC 8.
+WPZ,Unknown,Williams Partners L.P.
+MXL,Technology,"MaxLinear, Inc"
+WPG,Unknown,
+PSEC,Financial Services,Prospect Capital Corporation
+UHAL,Industrials,U-Haul Holding Company
+CX,Basic Materials,"Cemex, S.A.B. de C.V. Sponsored"
+IGIB,Unknown,iShares 5-10 Year Investment Gr
+TGE,Financial Services,The Generation Essentials Group
+QCP,Unknown,"Quality Care Properties, Inc."
+XT,Unknown,iShares Future Exponential Tech
+UNFI,Consumer Defensive,"United Natural Foods, Inc."
+PBR,Energy,Petroleo Brasileiro S.A. Petrob
+BAF,Unknown,
+WEX,Technology,WEX Inc.
+RMP,Unknown,Rice Midstream Partners LP
+SURG,Communication Services,"SurgePays, Inc."
+PSTG,Technology,"Pure Storage, Inc."
+HGV,Consumer Cyclical,Hilton Grand Vacations Inc.
+BPL,Unknown,
+VRAY,Unknown,
+NKTR,Healthcare,Nektar Therapeutics
+TWX,Unknown,17007297
+LQD,Unknown,iShares iBoxx $ Investment Grad
+LTC,Real Estate,"LTC Properties, Inc."
+RODM,Unknown,Hartford Multifactor Developed 
+HSTM,Healthcare,"HealthStream, Inc."
+BAYZF,Healthcare,Bayer A.G.
+WINA,Consumer Cyclical,Winmark Corporation
+OZRK,Unknown,
+VHT,Unknown,Vanguard Health Care ETF
+ECPG,Financial Services,Encore Capital Group Inc
+AHGP,Unknown,"Alliance Holdings GP, L.P."
+CODI,Industrials,D/B/A Compass Diversified Holdi
+DVMT,Unknown,Dell Technologies Inc.
+TTM,Unknown,
+GTES,Industrials,Gates Industrial Corporation pl
+APY,Unknown,
+GOGO,Communication Services,Gogo Inc.
+INOV,Unknown,Innovator International Develop
+MIK,Unknown,
+YELP,Communication Services,Yelp Inc.
+TKGBY,Financial Services,Turkiye Garanti Bankasi A.S.
+TOTL,Unknown,State Street DoubleLine Total R
+SEP,Unknown,"Spectra Energy Partners, LP"
+CXO,Unknown,
+TEP,Unknown,"Tallgrass Energy Partners, LP"
+CDXS,Healthcare,"Codexis, Inc."
+ACXM,Unknown,933390
+YTEN,Unknown,
+CALD,Unknown,51749
+MHLD,Unknown,
+NILSY,Unknown,
+HIBB,Unknown,
+FET,Energy,"Forum Energy Technologies, Inc."
+BETR,Financial Services,Better Home & Finance Holding C
+GRPN,Communication Services,"Groupon, Inc."
+CAA,Unknown,1152
+IPXL,Unknown,"Impax Laboratories, Inc."
+TEUM,Unknown,
+BONT,Unknown,60108
+ATOS,Healthcare,"Atossa Therapeutics, Inc."
+DXTR,Unknown,DEXTERA SURGICAL
+TRXC,Unknown,
+NEOT,Unknown,
+RCON,Energy,"Recon Technology, Ltd."
+NETE,Unknown,
+LBIX,Unknown,20889
+INFI,Unknown,
+OTIC,Unknown,"Otonomy, Inc."
+LNEGY,Unknown,
+ITEK,Unknown,3805
+MNK,Unknown,
+RTNB,Technology,"root9B Holdings, Inc."
+ARCI,Unknown,
+ACC,Unknown,
+CYTR,Unknown,
+CAPR,Healthcare,"Capricor Therapeutics, Inc."
+RAI,Unknown,775589
+TEAR,Unknown,
+AEZS,Unknown,
+CBAY,Unknown,
+ZN,Unknown,
+TTC,Industrials,Toro Company (The)
+ORKLY,Consumer Defensive,Orkla ASA
+CCP,Unknown,"Care Capital Properties, Inc."
+CLSN,Unknown,
+DCTH,Healthcare,"Delcath Systems, Inc."
+PCLN,Unknown,Pictet Cleaner Planet ETF
+VNCE,Consumer Cyclical,Vince Holding Corp.
+JNUG,Unknown,Direxion Daily Junior Gold Mine
+MNRO,Consumer Cyclical,"Monro, Inc."
+OCN,Unknown,
+FNBC,Unknown,
+FTK,Energy,"Flotek Industries, Inc."
+CEB,Unknown,
+S,Technology,"SentinelOne, Inc."
+TLRD,Unknown,
+RGC,Healthcare,Regencell Bioscience Holdings L
+MLPI,Unknown,NEOS MLP & Energy Infrastructur
+CLC,Unknown,151119
+IBB,Unknown,iShares Biotechnology ETF
+XBI,Unknown,State Street SPDR S&P Biotech E
+ALOG,Unknown,69876
+DBEF,Unknown,Xtrackers MSCI EAFE Hedged Equi

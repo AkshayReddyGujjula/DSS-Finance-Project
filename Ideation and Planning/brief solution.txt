@@ -1,0 +1,22 @@
+Quick brief on the project we're doing:
+
+**What it is:**
+We're analysing 5 years of US Congressional stock trades (2021-2026) to figure out if members of Congress actually beat the market or if it's just luck/insider advantage.
+
+**The core question:**
+Do Congressional portfolios outperform the S&P 500? And if they do, is it because of actual stock-picking skill, sector timing luck (overweighting tech during the boom), or access to non-public info?
+
+**Why it matters:**
+86% of Americans support banning Congressional stock trading. Trust in Congress is at 22%. Our analysis provides actual data for the policy debate around trading restrictions vs transparency reforms.
+
+**What we're doing:**
+- Scraping trades from Capitol Trades + fetching stock prices
+- Testing 7 hypotheses (outperformance, party differences, committee effects, trade size, etc.)
+- Building a predictive model to identify what predicts trade success
+- EDA + stats testing + machine learning
+
+**Deliverables:**
+- Clean dataset + summary stats (Week 2)
+- 8-12 visualisations + findings (Week 3)
+- Predictive model (Week 4)
+- Final presentation (8-10 slides) + GitHub repo + technical report (Week 5)
